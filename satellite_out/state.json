@@ -4143,6 +4143,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:02da67c5-3151-4714-8931-3505cb567930": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:15.022357Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.657806,
+            13.185444
+          ],
+          [
+            103.969208,
+            11.673704
+          ],
+          [
+            106.234146,
+            12.116467
+          ],
+          [
+            105.936874,
+            13.624457
+          ],
+          [
+            103.657806,
+            13.185444
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "02da67c5-3151-4714-8931-3505cb567930",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(02da67c5-3151-4714-8931-3505cb567930)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111115_20260818T111140_009049_011F69_F21F_COG.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111115_20260818T111140_009049_011F69_F21F_COG.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:02e920c8-f87d-49dd-b189-d4b908088c03": {
     "cloud_cover": 28.833261,
     "datetime": "2025-12-01T05:22:11.025000Z",
@@ -13041,6 +13088,53 @@
       }
     ],
     "name": "S1D_IW_ETA__AXDV_20260729T113032_20260729T113059_003888_007059_6BCE.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:08167846-bf0f-4ec5-9205-5e292cef0124": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:40.057365Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.860214,
+            34.321709
+          ],
+          [
+            87.203133,
+            32.815731
+          ],
+          [
+            89.923347,
+            33.22303
+          ],
+          [
+            89.628853,
+            34.726631
+          ],
+          [
+            86.860214,
+            34.321709
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "08167846-bf0f-4ec5-9205-5e292cef0124",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(08167846-bf0f-4ec5-9205-5e292cef0124)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120640_20260818T120705_004180_007A7E_9ECD_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120640_20260818T120705_004180_007A7E_9ECD_COG.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -30369,6 +30463,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:11db21f5-165c-4453-a4f0-b0e40ea76632": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:05.056969Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.499451,
+            35.825195
+          ],
+          [
+            86.860191,
+            34.321796
+          ],
+          [
+            89.629807,
+            34.726852
+          ],
+          [
+            89.321304,
+            36.228378
+          ],
+          [
+            86.499451,
+            35.825195
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "11db21f5-165c-4453-a4f0-b0e40ea76632",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(11db21f5-165c-4453-a4f0-b0e40ea76632)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120705_20260818T120730_004180_007A7E_7A12_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120705_20260818T120730_004180_007A7E_7A12_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:11e1ab08-4301-41e8-a21d-d56d88a47091": {
     "cloud_cover": 43.785021774027,
     "datetime": "2026-06-14T05:16:49.024000Z",
@@ -39743,6 +39884,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:1715a175-832f-480a-825b-fee6cb6e2e7c": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:40.657204Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            112.3151,
+            42.8537
+          ],
+          [
+            112.0489,
+            44.0993
+          ],
+          [
+            108.9975,
+            43.8216
+          ],
+          [
+            109.3263,
+            42.578
+          ],
+          [
+            112.3151,
+            42.8537
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "1715a175-832f-480a-825b-fee6cb6e2e7c",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(1715a175-832f-480a-825b-fee6cb6e2e7c)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T103040_20260818T103101_004179_007A71_80A6.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T103040_20260818T103101_004179_007A71_80A6.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:1718e03a-c5ba-4643-a137-16c1f6b39777": {
     "cloud_cover": 0.03451,
     "datetime": "2025-11-16T05:20:09.024000Z",
@@ -46244,6 +46432,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:1a34f2b6-a59f-4bb9-bd39-70c796c039ba": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:28.631007Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.082664,
+            40.041309
+          ],
+          [
+            110.490501,
+            38.414543
+          ],
+          [
+            113.373436,
+            38.811729
+          ],
+          [
+            113.036201,
+            40.43745
+          ],
+          [
+            110.082664,
+            40.041309
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "1a34f2b6-a59f-4bb9-bd39-70c796c039ba",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(1a34f2b6-a59f-4bb9-bd39-70c796c039ba)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T102928_20260818T102955_004179_007A71_EB38.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T102928_20260818T102955_004179_007A71_EB38.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:1a50b591-7baf-43d8-8223-7f61c3260485": {
     "cloud_cover": 67.330158,
     "datetime": "2025-12-01T05:22:11.025000Z",
@@ -50925,6 +51160,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:1cf274fa-5fbd-4ed5-8cf5-e2714b4dfa6b": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:10:00.057193Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            83.697411,
+            46.321522
+          ],
+          [
+            84.106384,
+            44.821606
+          ],
+          [
+            87.344734,
+            45.221813
+          ],
+          [
+            87.023903,
+            46.721504
+          ],
+          [
+            83.697411,
+            46.321522
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "1cf274fa-5fbd-4ed5-8cf5-e2714b4dfa6b",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(1cf274fa-5fbd-4ed5-8cf5-e2714b4dfa6b)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T121000_20260818T121025_004180_007A7E_B772_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T121000_20260818T121025_004180_007A7E_B772_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:1cf48575-05c9-4470-9933-2cae254dbc40": {
     "cloud_cover": null,
     "datetime": "2026-08-13T00:58:00.728845Z",
@@ -53612,6 +53894,53 @@
     ],
     "name": "S1A_IW_ETA__AXDV_20260301T011356_20260301T011423_063427_07F7D5_31EC.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:1e47eb66-8fb5-4ca8-a96f-9e9daa6d38e2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:05.056969Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.499451,
+            35.825195
+          ],
+          [
+            86.860191,
+            34.321796
+          ],
+          [
+            89.629807,
+            34.726852
+          ],
+          [
+            89.321304,
+            36.228378
+          ],
+          [
+            86.499451,
+            35.825195
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "1e47eb66-8fb5-4ca8-a96f-9e9daa6d38e2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(1e47eb66-8fb5-4ca8-a96f-9e9daa6d38e2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120705_20260818T120730_004180_007A7E_AA5A.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120705_20260818T120730_004180_007A7E_AA5A.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -58062,6 +58391,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:203cc26e-9b2e-462a-b519-4e06b7f3a2c7": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:01.359871Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            89.4035,
+            34.1689
+          ],
+          [
+            89.0138,
+            36.1248
+          ],
+          [
+            86.3035,
+            35.8555
+          ],
+          [
+            86.7583,
+            33.9002
+          ],
+          [
+            89.4035,
+            34.1689
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "203cc26e-9b2e-462a-b519-4e06b7f3a2c7",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(203cc26e-9b2e-462a-b519-4e06b7f3a2c7)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120701_20260818T120733_004180_007A7E_D7F3.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120701_20260818T120733_004180_007A7E_D7F3.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:2040ef25-dd6d-4b63-8309-23f4cd72e60d": {
     "cloud_cover": null,
     "datetime": "2025-12-16T10:13:29.736070Z",
@@ -60097,6 +60473,53 @@
     ],
     "name": "S2B_MSIL2A_20260813T051649_N0512_R062_T44SPJ_20260813T090622.SAFE",
     "sensor": "S2B",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:2149ec55-752c-468d-867c-b69bed7f4b18": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:10:21.361107Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.8984,
+            46.232
+          ],
+          [
+            86.6299,
+            47.4342
+          ],
+          [
+            83.3895,
+            47.1499
+          ],
+          [
+            83.7299,
+            45.9503
+          ],
+          [
+            86.8984,
+            46.232
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "2149ec55-752c-468d-867c-b69bed7f4b18",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(2149ec55-752c-468d-867c-b69bed7f4b18)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T121021_20260818T121041_004180_007A7E_FB19.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T121021_20260818T121041_004180_007A7E_FB19.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -62214,6 +62637,53 @@
     ],
     "name": "S2C_MSIL2A_20251201T052211_N0511_R062_T45TVL_20251201T084410.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:22296db4-a572-409e-bfb7-4069533b7b6d": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:51.322792Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            104.9753,
+            17.5574
+          ],
+          [
+            104.6171,
+            19.4021
+          ],
+          [
+            102.3014,
+            19.1254
+          ],
+          [
+            102.6848,
+            17.2783
+          ],
+          [
+            104.9753,
+            17.5574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "22296db4-a572-409e-bfb7-4069533b7b6d",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(22296db4-a572-409e-bfb7-4069533b7b6d)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_RAW__0SDV_20260818T111251_20260818T111321_009049_011F69_8B92.SAFE"
+      }
+    ],
+    "name": "S1C_IW_RAW__0SDV_20260818T111251_20260818T111321_009049_011F69_8B92.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -65133,6 +65603,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:24521b3d-1867-4774-b736-8165adf060a6": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:19.353578Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.318779,
+            42.961563
+          ],
+          [
+            109.721153,
+            41.462173
+          ],
+          [
+            112.762169,
+            41.860035
+          ],
+          [
+            112.43335,
+            43.358944
+          ],
+          [
+            109.318779,
+            42.961563
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "24521b3d-1867-4774-b736-8165adf060a6",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(24521b3d-1867-4774-b736-8165adf060a6)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T103019_20260818T103044_004179_007A71_10E8.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T103019_20260818T103044_004179_007A71_10E8.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:245f7d82-7356-4805-9d19-82b22a871580": {
     "cloud_cover": 1.639759,
     "datetime": "2025-11-16T05:20:09.024000Z",
@@ -65744,6 +66261,53 @@
     ],
     "name": "S2C_MSIL1C_20260331T051651_N0512_R062_T44SPA_20260331T084659.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:24a2b33f-f341-419c-b96e-f3684de953c7": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:15.656715Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            112.6325,
+            41.3463
+          ],
+          [
+            112.2202,
+            43.2998
+          ],
+          [
+            109.2095,
+            43.0234
+          ],
+          [
+            109.7144,
+            41.0726
+          ],
+          [
+            112.6325,
+            41.3463
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "24a2b33f-f341-419c-b96e-f3684de953c7",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(24a2b33f-f341-419c-b96e-f3684de953c7)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T103015_20260818T103048_004179_007A71_A611.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T103015_20260818T103048_004179_007A71_A611.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -66923,6 +67487,53 @@
     ],
     "name": "S2C_MSIL1C_20251002T051711_N0511_R062_T44TQS_20251002T084725.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:2558c8d8-7dd8-4a17-9ce1-7bf1a351ac14": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:35.057586Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.106346,
+            44.821507
+          ],
+          [
+            84.580742,
+            43.33144
+          ],
+          [
+            87.735756,
+            43.729774
+          ],
+          [
+            87.343437,
+            45.221581
+          ],
+          [
+            84.106346,
+            44.821507
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "2558c8d8-7dd8-4a17-9ce1-7bf1a351ac14",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(2558c8d8-7dd8-4a17-9ce1-7bf1a351ac14)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120935_20260818T121000_004180_007A7E_C0D8_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120935_20260818T121000_004180_007A7E_C0D8_COG.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -71444,6 +72055,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:280c6af8-f8d1-491d-9820-6709f303ffc7": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:34.400830Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.0783,
+            44.898277
+          ],
+          [
+            84.521729,
+            43.282265
+          ],
+          [
+            87.65657,
+            43.680607
+          ],
+          [
+            87.303352,
+            45.296764
+          ],
+          [
+            84.0783,
+            44.898277
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "280c6af8-f8d1-491d-9820-6709f303ffc7",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(280c6af8-f8d1-491d-9820-6709f303ffc7)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120934_20260818T121001_004180_007A7E_0684.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120934_20260818T121001_004180_007A7E_0684.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:281f9723-1f68-43be-bd60-b893538eb501": {
     "cloud_cover": 0.136125,
     "datetime": "2025-11-01T05:20:41.025000Z",
@@ -74434,6 +75092,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:29908fac-b2c3-40a6-9ada-e098cbcd962d": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:30.056574Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.127792,
+            37.327412
+          ],
+          [
+            86.499428,
+            35.825283
+          ],
+          [
+            89.322266,
+            36.228596
+          ],
+          [
+            89.007088,
+            37.729218
+          ],
+          [
+            86.127792,
+            37.327412
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "29908fac-b2c3-40a6-9ada-e098cbcd962d",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(29908fac-b2c3-40a6-9ada-e098cbcd962d)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120730_20260818T120755_004180_007A7E_8C7D_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120730_20260818T120755_004180_007A7E_8C7D_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:2991748e-bd18-4cf3-a3ea-eadd89265138": {
     "cloud_cover": 1.661995,
     "datetime": "2025-12-01T05:22:11.025000Z",
@@ -76557,6 +77262,53 @@
     ],
     "name": "S1A_IW_SLC__1SDV_20251231T103357_20251231T103425_062558_07D71E_1931.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:2a84a2e3-c94d-4f2e-a598-9e118e702d33": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:45.056883Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.933327,
+            41.824669
+          ],
+          [
+            85.309151,
+            40.321865
+          ],
+          [
+            88.317635,
+            40.72327
+          ],
+          [
+            88.0112,
+            42.224747
+          ],
+          [
+            84.933327,
+            41.824669
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "2a84a2e3-c94d-4f2e-a598-9e118e702d33",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(2a84a2e3-c94d-4f2e-a598-9e118e702d33)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120845_20260818T120910_004180_007A7E_14A7.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120845_20260818T120910_004180_007A7E_14A7.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -85033,6 +85785,53 @@
     ],
     "name": "S2C_MSIL1C_20251231T052231_N0511_R062_T45TUL_20251231T070945.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:2e95034e-13f3-4ded-9dd2-6fbdbc26a313": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:41.360802Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            88.1845,
+            40.2039
+          ],
+          [
+            87.777,
+            42.1578
+          ],
+          [
+            84.8214,
+            41.8832
+          ],
+          [
+            85.3165,
+            39.9316
+          ],
+          [
+            88.1845,
+            40.2039
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "2e95034e-13f3-4ded-9dd2-6fbdbc26a313",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(2e95034e-13f3-4ded-9dd2-6fbdbc26a313)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120841_20260818T120913_004180_007A7E_B5E1.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120841_20260818T120913_004180_007A7E_B5E1.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -96037,6 +96836,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:3514e9ca-d881-4f04-9557-053d4680742e": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:04.353634Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.478035,
+            38.4576
+          ],
+          [
+            110.845566,
+            36.954468
+          ],
+          [
+            113.692802,
+            37.355873
+          ],
+          [
+            113.384087,
+            38.857452
+          ],
+          [
+            110.478035,
+            38.4576
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "3514e9ca-d881-4f04-9557-053d4680742e",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(3514e9ca-d881-4f04-9557-053d4680742e)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102904_20260818T102929_004179_007A71_2E04_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102904_20260818T102929_004179_007A71_2E04_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:35170d81-657d-47c6-9ffc-27e133e5699e": {
     "cloud_cover": 49.115073542934,
     "datetime": "2026-05-15T05:32:41.024000Z",
@@ -101067,6 +101913,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:37f70ff3-b319-402d-ad9c-14fa5da344b5": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:50.056660Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.545235,
+            31.309599
+          ],
+          [
+            87.888618,
+            29.803926
+          ],
+          [
+            90.520081,
+            30.215885
+          ],
+          [
+            90.218628,
+            31.719093
+          ],
+          [
+            87.545235,
+            31.309599
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "37f70ff3-b319-402d-ad9c-14fa5da344b5",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(37f70ff3-b319-402d-ad9c-14fa5da344b5)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120550_20260818T120615_004180_007A7E_D96E_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120550_20260818T120615_004180_007A7E_D96E_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:380e29a4-709e-4ead-b5f5-9d950b1d02b5": {
     "cloud_cover": 37.944250637776,
     "datetime": "2026-01-15T05:20:49.024000Z",
@@ -103025,6 +103918,53 @@
     ],
     "name": "S2C_MSIL2A_20260331T051651_N0512_R062_T44RNV_20260331T102617.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:38df054b-968e-4306-b92e-4cf9ba2a176e": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:29.334619Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.113777,
+            37.409847
+          ],
+          [
+            86.50502,
+            35.781113
+          ],
+          [
+            89.269615,
+            36.177181
+          ],
+          [
+            88.940109,
+            37.804302
+          ],
+          [
+            86.113777,
+            37.409847
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "38df054b-968e-4306-b92e-4cf9ba2a176e",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(38df054b-968e-4306-b92e-4cf9ba2a176e)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120729_20260818T120756_004180_007A7E_4D95.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120729_20260818T120756_004180_007A7E_4D95.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -105936,6 +106876,53 @@
     ],
     "name": "S1A_IW_ETA__AXDV_20251231T011400_20251231T011427_062552_07D6E5_AD66.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:3a7012a7-ffbe-4b75-a716-56468233c36f": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:25.656410Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            113.254,
+            38.3301
+          ],
+          [
+            112.8531,
+            40.2848
+          ],
+          [
+            109.9817,
+            40.0123
+          ],
+          [
+            110.4625,
+            38.0594
+          ],
+          [
+            113.254,
+            38.3301
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "3a7012a7-ffbe-4b75-a716-56468233c36f",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(3a7012a7-ffbe-4b75-a716-56468233c36f)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T102925_20260818T102958_004179_007A71_5B08.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T102925_20260818T102958_004179_007A71_5B08.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -113743,6 +114730,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:3e610a67-1ca6-418b-8484-0086d4d0e074": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:29.353117Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.101448,
+            39.959946
+          ],
+          [
+            110.478012,
+            38.457691
+          ],
+          [
+            113.385201,
+            38.857685
+          ],
+          [
+            113.071976,
+            40.358669
+          ],
+          [
+            110.101448,
+            39.959946
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "3e610a67-1ca6-418b-8484-0086d4d0e074",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(3e610a67-1ca6-418b-8484-0086d4d0e074)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102929_20260818T102954_004179_007A71_248F.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102929_20260818T102954_004179_007A71_248F.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:3e66fd7e-9594-45e4-9f53-e304311d6e83": {
     "cloud_cover": 78.215826,
     "datetime": "2026-03-01T05:17:41.025000Z",
@@ -116581,6 +117615,53 @@
       }
     ],
     "name": "S2C_MSIL1C_20250902T051711_N0511_R062_T44RNT_20250902T084750.SAFE",
+    "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:4016ee4b-65d0-4e48-9e38-d534021e1a29": {
+    "cloud_cover": 73.655933,
+    "datetime": "2026-08-18T05:16:51.025000Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            83.62648535527944,
+            46.92357305830357
+          ],
+          [
+            83.57945945555527,
+            45.93643087306754
+          ],
+          [
+            84.99300216654522,
+            45.895735251937936
+          ],
+          [
+            85.06565713269579,
+            46.881459661637656
+          ],
+          [
+            83.62648535527944,
+            46.92357305830357
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "4016ee4b-65d0-4e48-9e38-d534021e1a29",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(4016ee4b-65d0-4e48-9e38-d534021e1a29)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S2C_MSIL2A_20260818T051651_N0512_R062_T44TQS_20260818T101620.SAFE"
+      }
+    ],
+    "name": "S2C_MSIL2A_20260818T051651_N0512_R062_T44TQS_20260818T101620.SAFE",
     "sensor": "S2C",
     "source": "Copernicus",
     "type": "optical"
@@ -120234,6 +121315,53 @@
       }
     ],
     "name": "S1D_IW_RAW__0SDV_20260515T110823_20260515T110855_002794_004BC4_5D3A.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:41d36c64-0308-4afd-b253-506e10ea5f0c": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:21.358620Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            90.5861,
+            28.1286
+          ],
+          [
+            90.2054,
+            30.086
+          ],
+          [
+            87.6777,
+            29.8174
+          ],
+          [
+            88.1068,
+            27.8593
+          ],
+          [
+            90.5861,
+            28.1286
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "41d36c64-0308-4afd-b253-506e10ea5f0c",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(41d36c64-0308-4afd-b253-506e10ea5f0c)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120521_20260818T120553_004180_007A7E_3041.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120521_20260818T120553_004180_007A7E_3041.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -125332,6 +126460,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:452d44ef-b9b4-40cb-82bc-3d2ffd3f3cd4": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:10:00.057193Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            83.697411,
+            46.321522
+          ],
+          [
+            84.106384,
+            44.821606
+          ],
+          [
+            87.344734,
+            45.221813
+          ],
+          [
+            87.023903,
+            46.721504
+          ],
+          [
+            83.697411,
+            46.321522
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "452d44ef-b9b4-40cb-82bc-3d2ffd3f3cd4",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(452d44ef-b9b4-40cb-82bc-3d2ffd3f3cd4)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T121000_20260818T121025_004180_007A7E_CFE2.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T121000_20260818T121025_004180_007A7E_CFE2.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:45366a54-9384-41fb-b35e-90d1d5404217": {
     "cloud_cover": null,
     "datetime": "2025-12-31T10:35:13.171398Z",
@@ -126033,6 +127208,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20251002T112257_20251002T112322_061246_07A391_29D4_COG.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:45cff798-23b4-410b-aea8-b435a83a9bec": {
+    "cloud_cover": 24.97073,
+    "datetime": "2026-08-18T05:16:51.025000Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            82.18269962266109,
+            40.64479964997401
+          ],
+          [
+            82.16566552008169,
+            39.65575725270223
+          ],
+          [
+            83.4447578221527,
+            39.63587147039632
+          ],
+          [
+            83.48044931997512,
+            40.62420990912828
+          ],
+          [
+            82.18269962266109,
+            40.64479964997401
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "45cff798-23b4-410b-aea8-b435a83a9bec",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(45cff798-23b4-410b-aea8-b435a83a9bec)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S2C_MSIL2A_20260818T051651_N0512_R062_T44TPK_20260818T101620.SAFE"
+      }
+    ],
+    "name": "S2C_MSIL2A_20260818T051651_N0512_R062_T44TPK_20260818T101620.SAFE",
+    "sensor": "S2C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -129997,6 +131219,53 @@
     ],
     "name": "S2B_MSIL1C_20260813T051649_N0512_R062_T44SLC_20260813T084241.SAFE",
     "sensor": "S2B",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:47930112-a533-4631-8d37-d24cf14830e2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:54.157516Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            85.727814,
+            38.898434
+          ],
+          [
+            86.127541,
+            37.271343
+          ],
+          [
+            88.956535,
+            37.667423
+          ],
+          [
+            88.62336,
+            39.29319
+          ],
+          [
+            85.727814,
+            38.898434
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "47930112-a533-4631-8d37-d24cf14830e2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(47930112-a533-4631-8d37-d24cf14830e2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120754_20260818T120821_004180_007A7E_4706.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120754_20260818T120821_004180_007A7E_4706.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -157346,6 +158615,65 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:56b1231d-10bb-4d78-9e9e-507e9e4e50e9": {
+    "cloud_cover": 77.898645,
+    "datetime": "2026-08-18T05:16:51.025000Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            82.17018204405228,
+            32.61882723254811
+          ],
+          [
+            82.1809576012224,
+            33.433952063072354
+          ],
+          [
+            80.99978483022456,
+            33.43957506752624
+          ],
+          [
+            80.99978721596565,
+            32.44912879312563
+          ],
+          [
+            82.11565349728193,
+            32.443955707244946
+          ],
+          [
+            82.12360362261114,
+            32.47179763106537
+          ],
+          [
+            82.17002504576753,
+            32.61830464947258
+          ],
+          [
+            82.17018204405228,
+            32.61882723254811
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "56b1231d-10bb-4d78-9e9e-507e9e4e50e9",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(56b1231d-10bb-4d78-9e9e-507e9e4e50e9)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S2C_MSIL2A_20260818T051651_N0512_R062_T44SNB_20260818T101620.SAFE"
+      }
+    ],
+    "name": "S2C_MSIL2A_20260818T051651_N0512_R062_T44SNB_20260818T101620.SAFE",
+    "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:56c3d21f-327a-468d-98d3-24473e1fc370": {
     "cloud_cover": 0.245523,
     "datetime": "2025-09-17T05:16:49.024000Z",
@@ -163105,6 +164433,53 @@
     ],
     "name": "S2C_MSIL2A_20251002T051711_N0511_R062_T45TVM_20251002T103804.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:5a3b81d8-f0ab-46ed-b976-2f122d98ff74": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:31.360954Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.5523,
+            43.2189
+          ],
+          [
+            87.1314,
+            45.1716
+          ],
+          [
+            84.0227,
+            44.8921
+          ],
+          [
+            84.5454,
+            42.9428
+          ],
+          [
+            87.5523,
+            43.2189
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "5a3b81d8-f0ab-46ed-b976-2f122d98ff74",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(5a3b81d8-f0ab-46ed-b976-2f122d98ff74)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120931_20260818T121003_004180_007A7E_5D64.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120931_20260818T121003_004180_007A7E_5D64.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -169010,6 +170385,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:5d893580-39f2-43cf-8785-dd2e890a5bc0": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:30.056574Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.127792,
+            37.327412
+          ],
+          [
+            86.499428,
+            35.825283
+          ],
+          [
+            89.322266,
+            36.228596
+          ],
+          [
+            89.007088,
+            37.729218
+          ],
+          [
+            86.127792,
+            37.327412
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "5d893580-39f2-43cf-8785-dd2e890a5bc0",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(5d893580-39f2-43cf-8785-dd2e890a5bc0)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120730_20260818T120755_004180_007A7E_97C1.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120730_20260818T120755_004180_007A7E_97C1.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:5d964fbe-73e3-491a-94b7-7d2ccec22f71": {
     "cloud_cover": 99.972105997211,
     "datetime": "2026-06-14T05:16:49.024000Z",
@@ -171328,6 +172750,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:5f28ac8d-1eea-4dee-88e8-5e688a1760b1": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:36.359703Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            89.7015,
+            32.6592
+          ],
+          [
+            89.3148,
+            34.6156
+          ],
+          [
+            86.6553,
+            34.3469
+          ],
+          [
+            87.1026,
+            32.3908
+          ],
+          [
+            89.7015,
+            32.6592
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "5f28ac8d-1eea-4dee-88e8-5e688a1760b1",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(5f28ac8d-1eea-4dee-88e8-5e688a1760b1)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120636_20260818T120708_004180_007A7E_82E9.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120636_20260818T120708_004180_007A7E_82E9.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:5f29a8fe-2159-48e3-900a-ff1ec3e878cc": {
     "cloud_cover": 99.999911,
     "datetime": "2026-08-13T05:16:49.024000Z",
@@ -172791,6 +174260,53 @@
     ],
     "name": "S2C_MSIL1C_20251002T051711_N0511_R062_T44TQR_20251002T084725.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:5fe41f5f-27f4-4665-a4ac-cd70abb5758d": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:55.021924Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            102.392876,
+            19.378153
+          ],
+          [
+            102.723335,
+            17.720312
+          ],
+          [
+            105.055885,
+            18.148643
+          ],
+          [
+            104.748589,
+            19.802492
+          ],
+          [
+            102.392876,
+            19.378153
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "5fe41f5f-27f4-4665-a4ac-cd70abb5758d",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(5fe41f5f-27f4-4665-a4ac-cd70abb5758d)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111255_20260818T111322_009049_011F69_022E_COG.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111255_20260818T111322_009049_011F69_022E_COG.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -175455,6 +176971,53 @@
     ],
     "name": "S2C_MSIL1C_20251101T052041_N0511_R062_T45UWP_20251101T071023.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:616f04d2-7aa7-4c33-a240-d69845743611": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:40.022249Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.347969,
+            14.697463
+          ],
+          [
+            103.657791,
+            13.185534
+          ],
+          [
+            105.936859,
+            13.624548
+          ],
+          [
+            105.64286,
+            15.132785
+          ],
+          [
+            103.347969,
+            14.697463
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "616f04d2-7aa7-4c33-a240-d69845743611",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(616f04d2-7aa7-4c33-a240-d69845743611)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111140_20260818T111205_009049_011F69_1AD5.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111140_20260818T111205_009049_011F69_1AD5.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -186865,6 +188428,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:6734540c-fdeb-4116-810e-3824cfebb1bf": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:10:45.734853Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.969223,
+            11.673615
+          ],
+          [
+            104.331879,
+            9.901986
+          ],
+          [
+            106.582474,
+            10.349277
+          ],
+          [
+            106.234169,
+            12.116378
+          ],
+          [
+            103.969223,
+            11.673615
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "6734540c-fdeb-4116-810e-3824cfebb1bf",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(6734540c-fdeb-4116-810e-3824cfebb1bf)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111045_20260818T111115_009049_011F69_205E_COG.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111045_20260818T111115_009049_011F69_205E_COG.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:67432372-fc5c-4008-b5de-1f87353ccc77": {
     "cloud_cover": null,
     "datetime": "2026-08-17T23:28:33.896263Z",
@@ -187590,6 +189200,53 @@
     ],
     "name": "S2C_MSIL1C_20260818T051651_N0512_R062_T44SPF_20260818T084648.SAFE",
     "sensor": "S2C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:67b3a56c-51dc-445c-8501-9be5b8ef8fc8": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:40.022249Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.347969,
+            14.697463
+          ],
+          [
+            103.657791,
+            13.185534
+          ],
+          [
+            105.936859,
+            13.624548
+          ],
+          [
+            105.64286,
+            15.132785
+          ],
+          [
+            103.347969,
+            14.697463
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "67b3a56c-51dc-445c-8501-9be5b8ef8fc8",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(67b3a56c-51dc-445c-8501-9be5b8ef8fc8)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111140_20260818T111205_009049_011F69_676E_COG.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111140_20260818T111205_009049_011F69_676E_COG.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -194455,6 +196112,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:6bfe6d04-fc9e-4a86-94e9-d621a2551f2c": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:10:45.734853Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.969223,
+            11.673615
+          ],
+          [
+            104.331879,
+            9.901986
+          ],
+          [
+            106.582474,
+            10.349277
+          ],
+          [
+            106.234169,
+            12.116378
+          ],
+          [
+            103.969223,
+            11.673615
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "6bfe6d04-fc9e-4a86-94e9-d621a2551f2c",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(6bfe6d04-fc9e-4a86-94e9-d621a2551f2c)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111045_20260818T111115_009049_011F69_6107.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111045_20260818T111115_009049_011F69_6107.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:6c0f9750-f242-4eeb-9d01-27f5ea9fdd39": {
     "cloud_cover": 4.187122728861,
     "datetime": "2025-12-31T05:22:31.025000Z",
@@ -195884,6 +197588,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:6d0610c1-5390-474c-8971-642338a9cbe2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:49.177638Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.527527,
+            31.374306
+          ],
+          [
+            87.891525,
+            29.74946
+          ],
+          [
+            90.464951,
+            30.153414
+          ],
+          [
+            90.146698,
+            31.775782
+          ],
+          [
+            87.527527,
+            31.374306
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "6d0610c1-5390-474c-8971-642338a9cbe2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(6d0610c1-5390-474c-8971-642338a9cbe2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120549_20260818T120616_004180_007A7E_D782.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120549_20260818T120616_004180_007A7E_D782.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:6d090323-7571-44d9-9d38-9970b4fdadd0": {
     "cloud_cover": 0.428307014547,
     "datetime": "2025-11-16T05:20:09.024000Z",
@@ -196558,6 +198309,53 @@
     ],
     "name": "S1A_IW_SLC__1SDV_20251216T101214_20251216T101242_062339_07CEA4_31BE.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:6d632ab1-0c8d-4435-aa5f-c2a137adab28": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:10:25.056797Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            83.400246,
+            47.32872
+          ],
+          [
+            83.69738,
+            46.321609
+          ],
+          [
+            87.025169,
+            46.721729
+          ],
+          [
+            86.791283,
+            47.729347
+          ],
+          [
+            83.400246,
+            47.32872
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "6d632ab1-0c8d-4435-aa5f-c2a137adab28",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(6d632ab1-0c8d-4435-aa5f-c2a137adab28)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T121025_20260818T121041_004180_007A7E_EAA6_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T121025_20260818T121041_004180_007A7E_EAA6_COG.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -197455,6 +199253,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:6e084a79-be65-4d8d-8561-2fc4eed751c2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:54.354096Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.721176,
+            41.462086
+          ],
+          [
+            110.101425,
+            39.960033
+          ],
+          [
+            113.07312,
+            40.358898
+          ],
+          [
+            112.760994,
+            41.859806
+          ],
+          [
+            109.721176,
+            41.462086
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "6e084a79-be65-4d8d-8561-2fc4eed751c2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(6e084a79-be65-4d8d-8561-2fc4eed751c2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102954_20260818T103019_004179_007A71_5E1E.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102954_20260818T103019_004179_007A71_5E1E.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:6e1e3fe7-40d9-440d-a5ee-2acf0d55d9ef": {
     "cloud_cover": 2.430692,
     "datetime": "2026-03-16T05:32:51.024000Z",
@@ -198309,6 +200154,53 @@
     ],
     "name": "S1A_IW_RAW__0SDV_20260415T101027_20260415T101059_064089_08109A_A388.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:6e78ff80-10ac-40c0-af99-ba3405cc643a": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:03.654553Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.480827,
+            35.917774
+          ],
+          [
+            86.876472,
+            34.236839
+          ],
+          [
+            89.583611,
+            34.634056
+          ],
+          [
+            89.24704,
+            36.313068
+          ],
+          [
+            86.480827,
+            35.917774
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "6e78ff80-10ac-40c0-af99-ba3405cc643a",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(6e78ff80-10ac-40c0-af99-ba3405cc643a)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120703_20260818T120731_004180_007A7E_57CD.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120703_20260818T120731_004180_007A7E_57CD.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -201534,6 +203426,53 @@
     ],
     "name": "S1C_IW_SLC__1SDV_20260415T110125_20260415T110152_007226_00EA50_5A00.SAFE",
     "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:70b4d1b5-3cc0-4a27-b109-45383b6a634c": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:28:38.125988Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.829948,
+            36.997669
+          ],
+          [
+            111.218933,
+            35.375851
+          ],
+          [
+            113.987251,
+            35.776379
+          ],
+          [
+            113.658958,
+            37.396603
+          ],
+          [
+            110.829948,
+            36.997669
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "70b4d1b5-3cc0-4a27-b109-45383b6a634c",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(70b4d1b5-3cc0-4a27-b109-45383b6a634c)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T102838_20260818T102905_004179_007A71_546C.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T102838_20260818T102905_004179_007A71_546C.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -211178,6 +213117,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:76ff0424-df20-477f-bec7-2b6f4bfc6fe0": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:16.360329Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            88.4942,
+            38.6957
+          ],
+          [
+            88.0921,
+            40.6502
+          ],
+          [
+            85.2048,
+            40.3774
+          ],
+          [
+            85.6882,
+            38.4248
+          ],
+          [
+            88.4942,
+            38.6957
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "76ff0424-df20-477f-bec7-2b6f4bfc6fe0",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(76ff0424-df20-477f-bec7-2b6f4bfc6fe0)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120816_20260818T120848_004180_007A7E_CD26.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120816_20260818T120848_004180_007A7E_CD26.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:770c900e-1683-4e3c-b8a4-eab2db626932": {
     "cloud_cover": null,
     "datetime": "2026-05-30T00:31:37.869476Z",
@@ -211793,6 +213779,53 @@
     ],
     "name": "S2A_MSIL1C_20260316T053251_N0512_R105_T43SFU_20260316T072704.SAFE",
     "sensor": "S2A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:776a9a2f-9435-481f-98c5-8df71d4f92cb": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:28:39.354151Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.845589,
+            36.954376
+          ],
+          [
+            111.200119,
+            35.449558
+          ],
+          [
+            113.99176,
+            35.852772
+          ],
+          [
+            113.691818,
+            37.355656
+          ],
+          [
+            110.845589,
+            36.954376
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "776a9a2f-9435-481f-98c5-8df71d4f92cb",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(776a9a2f-9435-481f-98c5-8df71d4f92cb)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102839_20260818T102904_004179_007A71_12FE.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102839_20260818T102904_004179_007A71_12FE.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -216492,6 +218525,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:7b46daae-3c65-4e03-88bb-872bff2ed1c2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:10:46.320976Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            106.4629,
+            10.0039
+          ],
+          [
+            106.0732,
+            11.9613
+          ],
+          [
+            103.8417,
+            11.673
+          ],
+          [
+            104.2462,
+            9.7119
+          ],
+          [
+            106.4629,
+            10.0039
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "7b46daae-3c65-4e03-88bb-872bff2ed1c2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(7b46daae-3c65-4e03-88bb-872bff2ed1c2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_RAW__0SDV_20260818T111046_20260818T111118_009049_011F69_8347.SAFE"
+      }
+    ],
+    "name": "S1C_IW_RAW__0SDV_20260818T111046_20260818T111118_009049_011F69_8347.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:7b48dc1d-37a4-44c0-ad49-338a7993f003": {
     "cloud_cover": null,
     "datetime": "2025-11-01T10:34:54.378742Z",
@@ -218245,6 +220325,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:7d0c8750-4419-48b6-a1a5-fe825a21f15a": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:28:39.354151Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.845589,
+            36.954376
+          ],
+          [
+            111.200119,
+            35.449558
+          ],
+          [
+            113.99176,
+            35.852772
+          ],
+          [
+            113.691818,
+            37.355656
+          ],
+          [
+            110.845589,
+            36.954376
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "7d0c8750-4419-48b6-a1a5-fe825a21f15a",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(7d0c8750-4419-48b6-a1a5-fe825a21f15a)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102839_20260818T102904_004179_007A71_8BCC_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102839_20260818T102904_004179_007A71_8BCC_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:7d0eceba-c5c8-4dcb-be8b-067e2685fbdf": {
     "cloud_cover": 40.556827,
     "datetime": "2025-10-02T05:17:11.025000Z",
@@ -219955,6 +222082,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:7eb70e6c-a536-47b0-aa9b-cf75567369fd": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:15.022357Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.657806,
+            13.185444
+          ],
+          [
+            103.969208,
+            11.673704
+          ],
+          [
+            106.234146,
+            12.116467
+          ],
+          [
+            105.936874,
+            13.624457
+          ],
+          [
+            103.657806,
+            13.185444
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "7eb70e6c-a536-47b0-aa9b-cf75567369fd",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(7eb70e6c-a536-47b0-aa9b-cf75567369fd)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111115_20260818T111140_009049_011F69_7882.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111115_20260818T111140_009049_011F69_7882.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:7ec146db-18b5-4a0b-8b44-20145ad2d656": {
     "cloud_cover": null,
     "datetime": "2025-09-17T10:59:13.782991Z",
@@ -221569,6 +223743,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20251216T101150_20251216T101215_062339_07CEA4_AD27.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:8050d469-17ef-472a-9fd7-f6136acb9e9d": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:04:58.573952Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            88.174606,
+            28.378466
+          ],
+          [
+            88.542427,
+            26.694492
+          ],
+          [
+            91.04731,
+            27.105183
+          ],
+          [
+            90.720306,
+            28.78624
+          ],
+          [
+            88.174606,
+            28.378466
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "8050d469-17ef-472a-9fd7-f6136acb9e9d",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(8050d469-17ef-472a-9fd7-f6136acb9e9d)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120458_20260818T120526_004180_007A7E_56ED.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120458_20260818T120526_004180_007A7E_56ED.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -225084,6 +227305,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:856cf44d-0250-42cd-8cc4-43b8f4c83645": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:50.656563Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            112.9452,
+            39.8384
+          ],
+          [
+            112.539,
+            41.7925
+          ],
+          [
+            109.6006,
+            41.5183
+          ],
+          [
+            110.0928,
+            39.5664
+          ],
+          [
+            112.9452,
+            39.8384
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "856cf44d-0250-42cd-8cc4-43b8f4c83645",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(856cf44d-0250-42cd-8cc4-43b8f4c83645)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T102950_20260818T103023_004179_007A71_8C8E.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T102950_20260818T103023_004179_007A71_8C8E.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:8570469c-c80d-4a23-a23d-0bdbbc714925": {
     "cloud_cover": 0.00204,
     "datetime": "2026-07-29T05:16:51.025000Z",
@@ -226047,6 +228315,53 @@
     ],
     "name": "S2A_MSIL2A_20260515T053241_N0512_R105_T44TKK_20260515T084109.SAFE",
     "sensor": "S2A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:8684e16e-fbfa-45e8-a32d-ebab8c6c45fb": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:54.354096Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.721176,
+            41.462086
+          ],
+          [
+            110.101425,
+            39.960033
+          ],
+          [
+            113.07312,
+            40.358898
+          ],
+          [
+            112.760994,
+            41.859806
+          ],
+          [
+            109.721176,
+            41.462086
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "8684e16e-fbfa-45e8-a32d-ebab8c6c45fb",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(8684e16e-fbfa-45e8-a32d-ebab8c6c45fb)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102954_20260818T103019_004179_007A71_0596_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102954_20260818T103019_004179_007A71_0596_COG.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -227818,6 +230133,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:8a1e0736-7bfa-45c6-90be-50f9b95de85f": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:35.057586Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.106346,
+            44.821507
+          ],
+          [
+            84.580742,
+            43.33144
+          ],
+          [
+            87.735756,
+            43.729774
+          ],
+          [
+            87.343437,
+            45.221581
+          ],
+          [
+            84.106346,
+            44.821507
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "8a1e0736-7bfa-45c6-90be-50f9b95de85f",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(8a1e0736-7bfa-45c6-90be-50f9b95de85f)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120935_20260818T121000_004180_007A7E_FF45.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120935_20260818T121000_004180_007A7E_FF45.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:8a3e42b7-fc3e-470a-82a3-d9aefe88a232": {
     "cloud_cover": null,
     "datetime": "2025-11-16T10:58:45.393349Z",
@@ -228482,6 +230844,53 @@
     ],
     "name": "S1A_IW_ETA__AXDV_20250917T105848_20250917T105915_061027_079ABB_BA4B.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:8b4a3cc1-499f-405d-9567-f31a19f321b0": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:18.276802Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.302505,
+            43.021336
+          ],
+          [
+            109.731453,
+            41.396587
+          ],
+          [
+            112.749535,
+            41.792336
+          ],
+          [
+            112.402428,
+            43.416702
+          ],
+          [
+            109.302505,
+            43.021336
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "8b4a3cc1-499f-405d-9567-f31a19f321b0",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(8b4a3cc1-499f-405d-9567-f31a19f321b0)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T103018_20260818T103045_004179_007A71_0E89.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T103018_20260818T103045_004179_007A71_0E89.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -229350,6 +231759,53 @@
     ],
     "name": "S1C_IW_ETA__AXDV_20260301T112639_20260301T112710_006570_00D407_8D5B.SAFE",
     "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:8cd03bbb-58d9-4ed5-8c4b-f3f142bedd0d": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:06.360878Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.8708,
+            41.7117
+          ],
+          [
+            87.457,
+            43.665
+          ],
+          [
+            84.4278,
+            43.3881
+          ],
+          [
+            84.9359,
+            41.4376
+          ],
+          [
+            87.8708,
+            41.7117
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "8cd03bbb-58d9-4ed5-8c4b-f3f142bedd0d",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(8cd03bbb-58d9-4ed5-8c4b-f3f142bedd0d)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120906_20260818T120938_004180_007A7E_B231.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120906_20260818T120938_004180_007A7E_B231.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -230434,6 +232890,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:8ece6a2f-94cf-4405-ac1f-c5d942e9c306": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:04.353634Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.478035,
+            38.4576
+          ],
+          [
+            110.845566,
+            36.954468
+          ],
+          [
+            113.692802,
+            37.355873
+          ],
+          [
+            113.384087,
+            38.857452
+          ],
+          [
+            110.478035,
+            38.4576
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "8ece6a2f-94cf-4405-ac1f-c5d942e9c306",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(8ece6a2f-94cf-4405-ac1f-c5d942e9c306)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102904_20260818T102929_004179_007A71_832E.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102904_20260818T102929_004179_007A71_832E.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:8ef13fe0-ca68-4429-a763-fbb936e04d31": {
     "cloud_cover": null,
     "datetime": "2026-08-13T10:17:18.647402Z",
@@ -230806,6 +233309,53 @@
       }
     ],
     "name": "S1D_IW_GRDH_1SDV_20260813T102038_20260813T102103_004106_0077EC_28EA_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:8fe7e550-b4f6-4ff6-adaa-f8e731f823c8": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:45.056883Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.933327,
+            41.824669
+          ],
+          [
+            85.309151,
+            40.321865
+          ],
+          [
+            88.317635,
+            40.72327
+          ],
+          [
+            88.0112,
+            42.224747
+          ],
+          [
+            84.933327,
+            41.824669
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "8fe7e550-b4f6-4ff6-adaa-f8e731f823c8",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(8fe7e550-b4f6-4ff6-adaa-f8e731f823c8)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120845_20260818T120910_004180_007A7E_49DC_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120845_20260818T120910_004180_007A7E_49DC_COG.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -231186,6 +233736,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:91b3efd4-b1db-4605-bf8a-67ad1bd3f3fe": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:25.057055Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.888641,
+            29.803837
+          ],
+          [
+            88.209946,
+            28.294666
+          ],
+          [
+            90.802155,
+            28.70957
+          ],
+          [
+            90.519379,
+            30.215691
+          ],
+          [
+            87.888641,
+            29.803837
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "91b3efd4-b1db-4605-bf8a-67ad1bd3f3fe",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(91b3efd4-b1db-4605-bf8a-67ad1bd3f3fe)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120525_20260818T120550_004180_007A7E_5808_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120525_20260818T120550_004180_007A7E_5808_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:91c20f90-6de1-4d63-b75f-da1198843125": {
     "cloud_cover": null,
     "datetime": "2025-09-02T10:35:15.145881Z",
@@ -231417,6 +234014,53 @@
       }
     ],
     "name": "S1D_IW_GRDH_1SDV_20260818T010401_20260818T010426_004173_007A3F_3A46_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:921bcc90-e694-4301-ab97-98f8ac84a44a": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:43.807423Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.924149,
+            41.874931
+          ],
+          [
+            85.344429,
+            40.24918
+          ],
+          [
+            88.317467,
+            40.646347
+          ],
+          [
+            87.974754,
+            42.271439
+          ],
+          [
+            84.924149,
+            41.874931
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "921bcc90-e694-4301-ab97-98f8ac84a44a",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(921bcc90-e694-4301-ab97-98f8ac84a44a)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120843_20260818T120910_004180_007A7E_554D.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120843_20260818T120910_004180_007A7E_554D.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -232358,6 +235002,53 @@
     ],
     "name": "S1D_IW_RAW__0SDV_20260812T232230_20260812T232302_004099_0077B5_8CD9.SAFE",
     "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:94165266-bdc9-448e-a721-8e8f75c2abcc": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:11.321449Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            106.1619,
+            11.5142
+          ],
+          [
+            105.7747,
+            13.4718
+          ],
+          [
+            103.5298,
+            13.1863
+          ],
+          [
+            103.934,
+            11.2251
+          ],
+          [
+            106.1619,
+            11.5142
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "94165266-bdc9-448e-a721-8e8f75c2abcc",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(94165266-bdc9-448e-a721-8e8f75c2abcc)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_RAW__0SDV_20260818T111111_20260818T111143_009049_011F69_E759.SAFE"
+      }
+    ],
+    "name": "S1C_IW_RAW__0SDV_20260818T111111_20260818T111143_009049_011F69_E759.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -233724,6 +236415,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:971cee8a-fcff-4481-a91b-679f9bdb4cfa": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:01.322060Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            105.5656,
+            14.5355
+          ],
+          [
+            105.1825,
+            16.4936
+          ],
+          [
+            102.9052,
+            16.2129
+          ],
+          [
+            103.3101,
+            14.2518
+          ],
+          [
+            105.5656,
+            14.5355
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "971cee8a-fcff-4481-a91b-679f9bdb4cfa",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(971cee8a-fcff-4481-a91b-679f9bdb4cfa)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_RAW__0SDV_20260818T111201_20260818T111233_009049_011F69_8D0D.SAFE"
+      }
+    ],
+    "name": "S1C_IW_RAW__0SDV_20260818T111201_20260818T111233_009049_011F69_8D0D.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:971e1746-0433-4579-a4d4-79195962fa17": {
     "cloud_cover": null,
     "datetime": "2026-04-30T10:38:29.237537Z",
@@ -233814,6 +236552,53 @@
       }
     ],
     "name": "S1D_IW_GRDH_1SDV_20260714T110535_20260714T110600_003669_0068DD_F3C4_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:9730acfa-6737-4be3-8794-1c7302b85fc2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:08.634432Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.536491,
+            43.41692
+          ],
+          [
+            84.980766,
+            41.742996
+          ],
+          [
+            88.015724,
+            42.137909
+          ],
+          [
+            87.657356,
+            43.811489
+          ],
+          [
+            84.536491,
+            43.41692
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "9730acfa-6737-4be3-8794-1c7302b85fc2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(9730acfa-6737-4be3-8794-1c7302b85fc2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120908_20260818T120936_004180_007A7E_A7F2.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120908_20260818T120936_004180_007A7E_A7F2.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -234754,6 +237539,53 @@
       }
     ],
     "name": "S1D_IW_RAW__0SDV_20260629T104323_20260629T104355_003450_00616E_D34F.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:98f98ab2-2b10-43d1-a09c-e6692dd60462": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:29.353117Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.101448,
+            39.959946
+          ],
+          [
+            110.478012,
+            38.457691
+          ],
+          [
+            113.385201,
+            38.857685
+          ],
+          [
+            113.071976,
+            40.358669
+          ],
+          [
+            110.101448,
+            39.959946
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "98f98ab2-2b10-43d1-a09c-e6692dd60462",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(98f98ab2-2b10-43d1-a09c-e6692dd60462)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T102929_20260818T102954_004179_007A71_C534_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T102929_20260818T102954_004179_007A71_C534_COG.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -236497,6 +239329,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:9d3032aa-9ab9-49aa-83d2-4a066c20dc97": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:05.022140Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.036644,
+            16.20908
+          ],
+          [
+            103.347954,
+            14.697553
+          ],
+          [
+            105.643021,
+            15.132909
+          ],
+          [
+            105.349327,
+            16.640837
+          ],
+          [
+            103.036644,
+            16.20908
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "9d3032aa-9ab9-49aa-83d2-4a066c20dc97",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(9d3032aa-9ab9-49aa-83d2-4a066c20dc97)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111205_20260818T111230_009049_011F69_F311_COG.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111205_20260818T111230_009049_011F69_F311_COG.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:9db0336d-58ec-43fe-8e70-bc5fb8c93db6": {
     "cloud_cover": null,
     "datetime": "2025-11-16T10:58:49.092674Z",
@@ -237199,6 +240078,53 @@
     ],
     "name": "S1D_IW_GRDH_1SDV_20260714T110445_20260714T110510_003669_0068DD_F68A_COG.SAFE",
     "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:9e89af46-e8c2-446a-ae70-447595b0ba46": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:03.905034Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.025513,
+            16.258383
+          ],
+          [
+            103.361649,
+            14.629962
+          ],
+          [
+            105.655609,
+            15.065415
+          ],
+          [
+            105.338608,
+            16.690001
+          ],
+          [
+            103.025513,
+            16.258383
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "9e89af46-e8c2-446a-ae70-447595b0ba46",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(9e89af46-e8c2-446a-ae70-447595b0ba46)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_SLC__1SDV_20260818T111203_20260818T111230_009049_011F69_574E.SAFE"
+      }
+    ],
+    "name": "S1C_IW_SLC__1SDV_20260818T111203_20260818T111230_009049_011F69_574E.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -238659,6 +241585,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:a234c495-b1d8-4dd5-81ad-bc426229b1b5": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:44.353061Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.026825,
+            44.012505
+          ],
+          [
+            109.318756,
+            42.961651
+          ],
+          [
+            112.433334,
+            43.359032
+          ],
+          [
+            112.196274,
+            44.409836
+          ],
+          [
+            109.026825,
+            44.012505
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "a234c495-b1d8-4dd5-81ad-bc426229b1b5",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(a234c495-b1d8-4dd5-81ad-bc426229b1b5)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T103044_20260818T103101_004179_007A71_E751.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T103044_20260818T103101_004179_007A71_E751.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:a239be35-d69a-45e9-9e77-68531239f4f2": {
     "cloud_cover": null,
     "datetime": "2026-03-16T10:06:44.626368Z",
@@ -238985,6 +241958,53 @@
     ],
     "name": "S1D_IW_ETA__AXDV_20260515T110757_20260515T110828_002794_004BC4_C912.SAFE",
     "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:a3011622-9299-4411-994a-8edfe3232f81": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:28.727931Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            102.715729,
+            17.759071
+          ],
+          [
+            103.053017,
+            16.130976
+          ],
+          [
+            105.364059,
+            16.56279
+          ],
+          [
+            105.048042,
+            18.187174
+          ],
+          [
+            102.715729,
+            17.759071
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "a3011622-9299-4411-994a-8edfe3232f81",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(a3011622-9299-4411-994a-8edfe3232f81)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_SLC__1SDV_20260818T111228_20260818T111255_009049_011F69_75E7.SAFE"
+      }
+    ],
+    "name": "S1C_IW_SLC__1SDV_20260818T111228_20260818T111255_009049_011F69_75E7.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -241335,6 +244355,53 @@
     ],
     "name": "S1A_IW_ETA__AXDV_20251231T103513_20251231T103540_062558_07D71E_A6E6.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:a78e8cbe-21ca-4b86-addd-ae36b1a8c3de": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:30.022032Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            102.723351,
+            17.720221
+          ],
+          [
+            103.036629,
+            16.209169
+          ],
+          [
+            105.349403,
+            16.640944
+          ],
+          [
+            105.055626,
+            18.148504
+          ],
+          [
+            102.723351,
+            17.720221
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "a78e8cbe-21ca-4b86-addd-ae36b1a8c3de",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(a78e8cbe-21ca-4b86-addd-ae36b1a8c3de)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111230_20260818T111255_009049_011F69_A694_COG.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111230_20260818T111255_009049_011F69_A694_COG.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -243923,6 +246990,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:ae7f591c-fdf9-4374-a1a0-7e9d891c9996": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:10:24.050737Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            83.409111,
+            47.330612
+          ],
+          [
+            83.719803,
+            46.262039
+          ],
+          [
+            87.015472,
+            46.658993
+          ],
+          [
+            86.77317,
+            47.72818
+          ],
+          [
+            83.409111,
+            47.330612
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "ae7f591c-fdf9-4374-a1a0-7e9d891c9996",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(ae7f591c-fdf9-4374-a1a0-7e9d891c9996)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T121024_20260818T121041_004180_007A7E_7ADA.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T121024_20260818T121041_004180_007A7E_7ADA.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:ae8113c7-ae69-4e10-9591-3ad2f2c11b31": {
     "cloud_cover": null,
     "datetime": "2025-12-16T10:11:22.020851Z",
@@ -244111,6 +247225,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:aeabdb11-8d6d-41ec-b76a-d5df5411ddce": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:50.056660Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.545235,
+            31.309599
+          ],
+          [
+            87.888618,
+            29.803926
+          ],
+          [
+            90.520081,
+            30.215885
+          ],
+          [
+            90.218628,
+            31.719093
+          ],
+          [
+            87.545235,
+            31.309599
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "aeabdb11-8d6d-41ec-b76a-d5df5411ddce",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(aeabdb11-8d6d-41ec-b76a-d5df5411ddce)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120550_20260818T120615_004180_007A7E_2B4F.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120550_20260818T120615_004180_007A7E_2B4F.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:aeac0c38-c039-42c7-a5c9-82c6986407c6": {
     "cloud_cover": null,
     "datetime": "2026-08-13T00:58:27.037597Z",
@@ -244202,6 +247363,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20260430T103855_20260430T103920_064308_0818C5_7175.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:aeea583b-5d2b-4421-9476-272e5528fbd7": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:20.057279Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            85.309174,
+            40.321777
+          ],
+          [
+            85.69339,
+            38.820648
+          ],
+          [
+            88.635788,
+            39.22298
+          ],
+          [
+            88.316483,
+            40.723042
+          ],
+          [
+            85.309174,
+            40.321777
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "aeea583b-5d2b-4421-9476-272e5528fbd7",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(aeea583b-5d2b-4421-9476-272e5528fbd7)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120820_20260818T120845_004180_007A7E_8B68.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120820_20260818T120845_004180_007A7E_8B68.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -244812,6 +248020,53 @@
       }
     ],
     "name": "S1C_IW_ETA__AXDV_20260301T112409_20260301T112436_006570_00D407_516B.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:afcfc1b9-b2e7-4ecd-b63d-fe9d7e0f8118": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:10:45.724005Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.950905,
+            11.754662
+          ],
+          [
+            104.331482,
+            9.901221
+          ],
+          [
+            106.583244,
+            10.348747
+          ],
+          [
+            106.2174,
+            12.197393
+          ],
+          [
+            103.950905,
+            11.754662
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "afcfc1b9-b2e7-4ecd-b63d-fe9d7e0f8118",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(afcfc1b9-b2e7-4ecd-b63d-fe9d7e0f8118)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_SLC__1SDV_20260818T111045_20260818T111116_009049_011F69_7EA6.SAFE"
+      }
+    ],
+    "name": "S1C_IW_SLC__1SDV_20260818T111045_20260818T111116_009049_011F69_7EA6.SAFE",
     "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
@@ -246176,6 +249431,53 @@
     ],
     "name": "S1A_IW_RAW__0SDV_20251201T112111_20251201T112144_062121_07C61A_2D8E.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:b2d7428b-031d-4882-9e23-9a6067710979": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:53.453904Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.702782,
+            41.532528
+          ],
+          [
+            110.120491,
+            39.906742
+          ],
+          [
+            113.06646,
+            40.302677
+          ],
+          [
+            112.724678,
+            41.927731
+          ],
+          [
+            109.702782,
+            41.532528
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "b2d7428b-031d-4882-9e23-9a6067710979",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(b2d7428b-031d-4882-9e23-9a6067710979)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T102953_20260818T103020_004179_007A71_CF4C.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T102953_20260818T103020_004179_007A71_CF4C.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -247777,6 +251079,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:b5976295-9595-405f-9430-89c7d4b71826": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:20.057279Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            85.309174,
+            40.321777
+          ],
+          [
+            85.69339,
+            38.820648
+          ],
+          [
+            88.635788,
+            39.22298
+          ],
+          [
+            88.316483,
+            40.723042
+          ],
+          [
+            85.309174,
+            40.321777
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "b5976295-9595-405f-9430-89c7d4b71826",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(b5976295-9595-405f-9430-89c7d4b71826)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120820_20260818T120845_004180_007A7E_8BF5_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120820_20260818T120845_004180_007A7E_8BF5_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:b599facc-32cb-49a2-ba37-0ca515d6e5ce": {
     "cloud_cover": null,
     "datetime": "2025-10-17T10:10:39.438264Z",
@@ -248999,6 +252348,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:b88241ae-afe5-492e-ad0b-c11437b0c7b6": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:30.022032Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            102.723351,
+            17.720221
+          ],
+          [
+            103.036629,
+            16.209169
+          ],
+          [
+            105.349403,
+            16.640944
+          ],
+          [
+            105.055626,
+            18.148504
+          ],
+          [
+            102.723351,
+            17.720221
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "b88241ae-afe5-492e-ad0b-c11437b0c7b6",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(b88241ae-afe5-492e-ad0b-c11437b0c7b6)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111230_20260818T111255_009049_011F69_7039.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111230_20260818T111255_009049_011F69_7039.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:b89f1dd7-921f-4866-8ebf-77aac57096eb": {
     "cloud_cover": null,
     "datetime": "2026-01-30T00:26:16.993385Z",
@@ -249043,6 +252439,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20260130T002616_20260130T002641_062989_07E743_EDFD_COG.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:b8a55aa3-dc82-4990-8116-66c1965b7c2d": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:10:25.056797Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            83.400246,
+            47.32872
+          ],
+          [
+            83.69738,
+            46.321609
+          ],
+          [
+            87.025169,
+            46.721729
+          ],
+          [
+            86.791283,
+            47.729347
+          ],
+          [
+            83.400246,
+            47.32872
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "b8a55aa3-dc82-4990-8116-66c1965b7c2d",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(b8a55aa3-dc82-4990-8116-66c1965b7c2d)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T121025_20260818T121041_004180_007A7E_84BA.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T121025_20260818T121041_004180_007A7E_84BA.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -249983,6 +253426,53 @@
     ],
     "name": "S1C_IW_RAW__0SDV_20260316T100550_20260316T100623_006788_00DB7B_38FA.SAFE",
     "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:ba579c48-ec60-4bf0-b0f4-1a9a4b8feee2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:14.002591Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.189453,
+            32.870228
+          ],
+          [
+            87.558769,
+            31.245981
+          ],
+          [
+            90.173264,
+            31.647467
+          ],
+          [
+            89.85318,
+            33.269424
+          ],
+          [
+            87.189453,
+            32.870228
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "ba579c48-ec60-4bf0-b0f4-1a9a4b8feee2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(ba579c48-ec60-4bf0-b0f4-1a9a4b8feee2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120614_20260818T120640_004180_007A7E_9FB4.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120614_20260818T120640_004180_007A7E_9FB4.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -251067,6 +254557,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:bd4fc952-be3e-488b-9a97-d68754b7a247": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:26.322426Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            105.2698,
+            16.0464
+          ],
+          [
+            104.8883,
+            18.0046
+          ],
+          [
+            102.592,
+            17.7261
+          ],
+          [
+            102.9978,
+            15.7651
+          ],
+          [
+            105.2698,
+            16.0464
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "bd4fc952-be3e-488b-9a97-d68754b7a247",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(bd4fc952-be3e-488b-9a97-d68754b7a247)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_RAW__0SDV_20260818T111226_20260818T111258_009049_011F69_46B9.SAFE"
+      }
+    ],
+    "name": "S1C_IW_RAW__0SDV_20260818T111226_20260818T111258_009049_011F69_46B9.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:bd69d6ef-e040-40eb-a867-85e843243d0e": {
     "cloud_cover": null,
     "datetime": "2026-06-29T10:43:02.104541Z",
@@ -251627,6 +255164,53 @@
       }
     ],
     "name": "S1D_IW_SLC__1SDV_20260818T010605_20260818T010632_004173_007A3F_AD9D.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:bdee4119-e136-4182-bef3-ae690784af02": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:59.219617Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            83.656441,
+            46.385994
+          ],
+          [
+            84.114098,
+            44.770535
+          ],
+          [
+            87.331665,
+            45.168976
+          ],
+          [
+            86.97139,
+            46.785015
+          ],
+          [
+            83.656441,
+            46.385994
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "bdee4119-e136-4182-bef3-ae690784af02",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(bdee4119-e136-4182-bef3-ae690784af02)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120959_20260818T121026_004180_007A7E_B651.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120959_20260818T121026_004180_007A7E_B651.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -253323,6 +256907,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:c17ec7b2-ee0f-4589-b8a5-1158dda2e2e5": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:56.361030Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.2284,
+            44.7257
+          ],
+          [
+            86.7994,
+            46.6777
+          ],
+          [
+            83.6048,
+            46.3951
+          ],
+          [
+            84.1439,
+            44.447
+          ],
+          [
+            87.2284,
+            44.7257
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "c17ec7b2-ee0f-4589-b8a5-1158dda2e2e5",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(c17ec7b2-ee0f-4589-b8a5-1158dda2e2e5)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120956_20260818T121028_004180_007A7E_1BAF.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120956_20260818T121028_004180_007A7E_1BAF.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:c1837274-2fdb-4e57-85bb-c9e39c5c2c1b": {
     "cloud_cover": null,
     "datetime": "2026-08-17T23:26:26.086348Z",
@@ -254072,6 +257703,53 @@
     ],
     "name": "S1C_IW_SLC__1SDV_20251231T112526_20251231T112553_005695_00B60F_E999.SAFE",
     "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:c38b52e3-1e3f-4400-be46-72c66859670c": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:10.056489Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.580826,
+            43.33136
+          ],
+          [
+            84.933327,
+            41.82476
+          ],
+          [
+            88.012527,
+            42.224991
+          ],
+          [
+            87.734612,
+            43.729557
+          ],
+          [
+            84.580826,
+            43.33136
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "c38b52e3-1e3f-4400-be46-72c66859670c",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(c38b52e3-1e3f-4400-be46-72c66859670c)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120910_20260818T120935_004180_007A7E_73AA_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120910_20260818T120935_004180_007A7E_73AA_COG.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -256096,6 +259774,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:c7c2b1fa-9f3e-4aa7-84e7-ad4a4db68cc6": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:55.057672Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            85.69342,
+            38.82056
+          ],
+          [
+            86.127808,
+            37.327511
+          ],
+          [
+            89.008232,
+            37.729458
+          ],
+          [
+            88.634674,
+            39.222748
+          ],
+          [
+            85.69342,
+            38.82056
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "c7c2b1fa-9f3e-4aa7-84e7-ad4a4db68cc6",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(c7c2b1fa-9f3e-4aa7-84e7-ad4a4db68cc6)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120755_20260818T120820_004180_007A7E_24AE_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120755_20260818T120820_004180_007A7E_24AE_COG.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:c7e4d1c0-02ad-4724-9865-68e187b210f5": {
     "cloud_cover": null,
     "datetime": "2026-07-29T11:30:58.489822Z",
@@ -256986,6 +260711,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20260130T112200_20260130T112225_062996_07E780_8A24.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:c92b6c92-76fd-4ae7-b848-db857182de7f": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:36.321526Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            105.8629,
+            13.0247
+          ],
+          [
+            105.4779,
+            14.9826
+          ],
+          [
+            103.2177,
+            14.6997
+          ],
+          [
+            103.6221,
+            12.7384
+          ],
+          [
+            105.8629,
+            13.0247
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "c92b6c92-76fd-4ae7-b848-db857182de7f",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(c92b6c92-76fd-4ae7-b848-db857182de7f)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_RAW__0SDV_20260818T111136_20260818T111208_009049_011F69_950F.SAFE"
+      }
+    ],
+    "name": "S1C_IW_RAW__0SDV_20260818T111136_20260818T111208_009049_011F69_950F.SAFE",
+    "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -258114,6 +261886,53 @@
     ],
     "name": "S1A_IW_SLC__1SDV_20260515T105954_20260515T110021_064527_0820A0_2E69.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:cc00cf0d-6188-4139-8757-560f8978a754": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:15.057760Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.203156,
+            32.815639
+          ],
+          [
+            87.545219,
+            31.30969
+          ],
+          [
+            90.219551,
+            31.719316
+          ],
+          [
+            89.922523,
+            33.222824
+          ],
+          [
+            87.203156,
+            32.815639
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "cc00cf0d-6188-4139-8757-560f8978a754",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(cc00cf0d-6188-4139-8757-560f8978a754)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120615_20260818T120640_004180_007A7E_AAF8_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120615_20260818T120640_004180_007A7E_AAF8_COG.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -260044,6 +263863,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:d0b434ad-19ee-4d06-98ac-e09771cdfae2": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:51.360176Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            88.8002,
+            37.1871
+          ],
+          [
+            88.4029,
+            39.1421
+          ],
+          [
+            85.579,
+            38.8708
+          ],
+          [
+            86.0518,
+            36.9173
+          ],
+          [
+            88.8002,
+            37.1871
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "d0b434ad-19ee-4d06-98ac-e09771cdfae2",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(d0b434ad-19ee-4d06-98ac-e09771cdfae2)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120751_20260818T120823_004180_007A7E_A0E8.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120751_20260818T120823_004180_007A7E_A0E8.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:d0d5165b-9e1b-416c-a08a-cf7b8cb5b004": {
     "cloud_cover": null,
     "datetime": "2025-09-02T10:36:07.419355Z",
@@ -260088,6 +263954,53 @@
     ],
     "name": "S1A_IW_ETA__AXDV_20250902T103607_20250902T103635_060808_0791FA_5334.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:d0e08029-fe4e-472b-8acf-82760c1adcfe": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:40.057365Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.860214,
+            34.321709
+          ],
+          [
+            87.203133,
+            32.815731
+          ],
+          [
+            89.923347,
+            33.22303
+          ],
+          [
+            89.628853,
+            34.726631
+          ],
+          [
+            86.860214,
+            34.321709
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "d0e08029-fe4e-472b-8acf-82760c1adcfe",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(d0e08029-fe4e-472b-8acf-82760c1adcfe)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120640_20260818T120705_004180_007A7E_F023.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120640_20260818T120705_004180_007A7E_F023.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -262065,6 +265978,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:d46ccf03-69f2-4a52-b268-0a96a503f327": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:11.359550Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            89.9978,
+            31.1493
+          ],
+          [
+            89.6135,
+            33.1061
+          ],
+          [
+            87.0013,
+            32.8376
+          ],
+          [
+            87.4417,
+            30.8808
+          ],
+          [
+            89.9978,
+            31.1493
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "d46ccf03-69f2-4a52-b268-0a96a503f327",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(d46ccf03-69f2-4a52-b268-0a96a503f327)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120611_20260818T120643_004180_007A7E_6AAE.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120611_20260818T120643_004180_007A7E_6AAE.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:d476aae0-37af-4cf5-a8f9-728ca923d025": {
     "cloud_cover": null,
     "datetime": "2026-04-15T11:00:07.157894Z",
@@ -263381,6 +267341,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:d728f160-a171-477b-99a9-d0b34c5f63cb": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:14.253070Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.643044,
+            13.256051
+          ],
+          [
+            103.977821,
+            11.626987
+          ],
+          [
+            106.242928,
+            12.069984
+          ],
+          [
+            105.923195,
+            13.694966
+          ],
+          [
+            103.643044,
+            13.256051
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "d728f160-a171-477b-99a9-d0b34c5f63cb",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(d728f160-a171-477b-99a9-d0b34c5f63cb)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_SLC__1SDV_20260818T111114_20260818T111141_009049_011F69_A80F.SAFE"
+      }
+    ],
+    "name": "S1C_IW_SLC__1SDV_20260818T111114_20260818T111141_009049_011F69_A80F.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:d7450e34-d11e-4f19-8886-e6d49866a3de": {
     "cloud_cover": null,
     "datetime": "2026-03-31T11:20:42.961877Z",
@@ -264553,6 +268560,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20251002T002624_20251002T002649_061239_07A348_C9CF_COG.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:d950b2a9-a139-4bc1-91e7-b2c4830b18d1": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:19.353578Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.318779,
+            42.961563
+          ],
+          [
+            109.721153,
+            41.462173
+          ],
+          [
+            112.762169,
+            41.860035
+          ],
+          [
+            112.43335,
+            43.358944
+          ],
+          [
+            109.318779,
+            42.961563
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "d950b2a9-a139-4bc1-91e7-b2c4830b18d1",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(d950b2a9-a139-4bc1-91e7-b2c4830b18d1)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T103019_20260818T103044_004179_007A71_38CE_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T103019_20260818T103044_004179_007A71_38CE_COG.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -266013,6 +270067,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:ddb21a01-b9ac-4dfd-8085-af2ed982be6b": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:55.021924Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            102.392876,
+            19.378153
+          ],
+          [
+            102.723335,
+            17.720312
+          ],
+          [
+            105.055885,
+            18.148643
+          ],
+          [
+            104.748589,
+            19.802492
+          ],
+          [
+            102.392876,
+            19.378153
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "ddb21a01-b9ac-4dfd-8085-af2ed982be6b",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(ddb21a01-b9ac-4dfd-8085-af2ed982be6b)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111255_20260818T111322_009049_011F69_A0B7.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111255_20260818T111322_009049_011F69_A0B7.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:ddc14822-77a7-4713-a462-9751da289b5e": {
     "cloud_cover": null,
     "datetime": "2025-09-17T11:00:29.770893Z",
@@ -266198,6 +270299,53 @@
     ],
     "name": "S1A_IW_RAW__0SDV_20251017T005105_20251017T005137_061458_07AC11_3735.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:de22a3c7-0654-40f7-b2e1-241e76987126": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:44.353061Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.026825,
+            44.012505
+          ],
+          [
+            109.318756,
+            42.961651
+          ],
+          [
+            112.433334,
+            43.359032
+          ],
+          [
+            112.196274,
+            44.409836
+          ],
+          [
+            109.026825,
+            44.012505
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "de22a3c7-0654-40f7-b2e1-241e76987126",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(de22a3c7-0654-40f7-b2e1-241e76987126)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T103044_20260818T103101_004179_007A71_746C_COG.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T103044_20260818T103101_004179_007A71_746C_COG.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -266808,6 +270956,53 @@
       }
     ],
     "name": "S1D_IW_SLC__1SDV_20260729T113032_20260729T113059_003888_007059_A467.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:e043f4d0-f96c-48df-a486-1b0dbcffa366": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:08:18.984526Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            85.295555,
+            40.382141
+          ],
+          [
+            85.705925,
+            38.75565
+          ],
+          [
+            88.619049,
+            39.154842
+          ],
+          [
+            88.280891,
+            40.780365
+          ],
+          [
+            85.295555,
+            40.382141
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e043f4d0-f96c-48df-a486-1b0dbcffa366",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e043f4d0-f96c-48df-a486-1b0dbcffa366)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120818_20260818T120846_004180_007A7E_132C.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120818_20260818T120846_004180_007A7E_132C.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -267658,6 +271853,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:e29e96e4-dccb-4388-9b65-70e65b6e47f7": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:26.360023Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            89.1031,
+            35.6782
+          ],
+          [
+            88.71,
+            37.6337
+          ],
+          [
+            85.945,
+            37.3636
+          ],
+          [
+            86.4083,
+            35.4091
+          ],
+          [
+            89.1031,
+            35.6782
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e29e96e4-dccb-4388-9b65-70e65b6e47f7",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e29e96e4-dccb-4388-9b65-70e65b6e47f7)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120726_20260818T120758_004180_007A7E_DBEE.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120726_20260818T120758_004180_007A7E_DBEE.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:e2a1ad34-5923-45f3-8c76-b0cced0f092a": {
     "cloud_cover": null,
     "datetime": "2026-07-29T09:53:17.597714Z",
@@ -267701,6 +271943,53 @@
       }
     ],
     "name": "S1D_IW_OCN__2SDV_20260729T095317_20260729T095346_003887_007050_551F.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:e2c5f014-f98b-417a-9440-0945303211a1": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:46.358986Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            90.2925,
+            29.639
+          ],
+          [
+            89.9103,
+            31.5962
+          ],
+          [
+            87.3419,
+            31.3278
+          ],
+          [
+            87.7763,
+            29.3702
+          ],
+          [
+            90.2925,
+            29.639
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e2c5f014-f98b-417a-9440-0945303211a1",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e2c5f014-f98b-417a-9440-0945303211a1)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T120546_20260818T120618_004180_007A7E_A3B2.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T120546_20260818T120618_004180_007A7E_A3B2.SAFE",
     "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
@@ -268786,6 +273075,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:e495cc09-6ae4-4de5-a386-278869321f79": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:00.656258Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            113.5593,
+            36.8214
+          ],
+          [
+            113.163,
+            38.7766
+          ],
+          [
+            110.3539,
+            38.5055
+          ],
+          [
+            110.8244,
+            36.5517
+          ],
+          [
+            113.5593,
+            36.8214
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e495cc09-6ae4-4de5-a386-278869321f79",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e495cc09-6ae4-4de5-a386-278869321f79)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_RAW__0SDV_20260818T102900_20260818T102933_004179_007A71_7218.SAFE"
+      }
+    ],
+    "name": "S1D_IW_RAW__0SDV_20260818T102900_20260818T102933_004179_007A71_7218.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:e4a6bba8-eb33-4c83-be5a-0a0a3a41e077": {
     "cloud_cover": null,
     "datetime": "2026-06-14T00:49:16.694634Z",
@@ -268971,6 +273307,53 @@
     ],
     "name": "S1C_IW_RAW__0SDV_20251231T112318_20251231T112351_005695_00B60F_F89D.SAFE",
     "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:e4e7b2a1-c992-4de0-995f-0c6f7a8d3691": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:24.356795Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.860146,
+            29.877874
+          ],
+          [
+            88.219391,
+            28.252466
+          ],
+          [
+            90.754982,
+            28.659096
+          ],
+          [
+            90.438202,
+            30.281847
+          ],
+          [
+            87.860146,
+            29.877874
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e4e7b2a1-c992-4de0-995f-0c6f7a8d3691",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e4e7b2a1-c992-4de0-995f-0c6f7a8d3691)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120524_20260818T120551_004180_007A7E_0A06.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120524_20260818T120551_004180_007A7E_0A06.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -269206,6 +273589,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20260316T092431_20260316T092456_063651_080040_F8CD.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:e5083f16-1d89-46e7-92d0-2322b24048d6": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:05:25.057055Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.888641,
+            29.803837
+          ],
+          [
+            88.209946,
+            28.294666
+          ],
+          [
+            90.802155,
+            28.70957
+          ],
+          [
+            90.519379,
+            30.215691
+          ],
+          [
+            87.888641,
+            29.803837
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e5083f16-1d89-46e7-92d0-2322b24048d6",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e5083f16-1d89-46e7-92d0-2322b24048d6)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120525_20260818T120550_004180_007A7E_E7AD.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120525_20260818T120550_004180_007A7E_E7AD.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -270944,6 +275374,100 @@
       }
     ],
     "name": "S1C_IW_SLC__1SDV_20251101T112349_20251101T112416_004820_009864_0FBF.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:e97ec638-4087-4889-9c9d-e71feed6f32a": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:30:43.103811Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            109.030006,
+            44.013592
+          ],
+          [
+            109.334923,
+            42.88615
+          ],
+          [
+            112.429344,
+            43.281811
+          ],
+          [
+            112.184921,
+            44.40921
+          ],
+          [
+            109.030006,
+            44.013592
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e97ec638-4087-4889-9c9d-e71feed6f32a",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e97ec638-4087-4889-9c9d-e71feed6f32a)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T103043_20260818T103101_004179_007A71_3191.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T103043_20260818T103101_004179_007A71_3191.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:e99ae277-40e0-4075-ba46-fac14ca3df89": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:05.022140Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.036644,
+            16.20908
+          ],
+          [
+            103.347954,
+            14.697553
+          ],
+          [
+            105.643021,
+            15.132909
+          ],
+          [
+            105.349327,
+            16.640837
+          ],
+          [
+            103.036644,
+            16.20908
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "e99ae277-40e0-4075-ba46-fac14ca3df89",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(e99ae277-40e0-4075-ba46-fac14ca3df89)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_GRDH_1SDV_20260818T111205_20260818T111230_009049_011F69_EE01.SAFE"
+      }
+    ],
+    "name": "S1C_IW_GRDH_1SDV_20260818T111205_20260818T111230_009049_011F69_EE01.SAFE",
     "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
@@ -273862,6 +278386,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:efa3c158-d0a9-4ea9-8bc2-2fc811e5511b": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:12:53.550829Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            102.384956,
+            19.377321
+          ],
+          [
+            102.7481,
+            17.632595
+          ],
+          [
+            105.076187,
+            18.060469
+          ],
+          [
+            104.738289,
+            19.801355
+          ],
+          [
+            102.384956,
+            19.377321
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "efa3c158-d0a9-4ea9-8bc2-2fc811e5511b",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(efa3c158-d0a9-4ea9-8bc2-2fc811e5511b)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_SLC__1SDV_20260818T111253_20260818T111322_009049_011F69_6EC8.SAFE"
+      }
+    ],
+    "name": "S1C_IW_SLC__1SDV_20260818T111253_20260818T111322_009049_011F69_6EC8.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:efae4cfe-5f94-48b7-ab00-1c453672014a": {
     "cloud_cover": null,
     "datetime": "2026-05-15T10:57:25.883316Z",
@@ -274893,6 +279464,53 @@
     ],
     "name": "S1A_IW_GRDH_1SDV_20260214T101055_20260214T101120_063214_07EFA9_6601.SAFE",
     "sensor": "S1A",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:f1d8486c-c2a0-409d-a1c9-79c419f8b0f7": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T10:29:02.948886Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            110.454727,
+            38.548988
+          ],
+          [
+            110.866043,
+            36.86998
+          ],
+          [
+            113.687973,
+            37.268635
+          ],
+          [
+            113.344299,
+            38.946262
+          ],
+          [
+            110.454727,
+            38.548988
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "f1d8486c-c2a0-409d-a1c9-79c419f8b0f7",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(f1d8486c-c2a0-409d-a1c9-79c419f8b0f7)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T102902_20260818T102930_004179_007A71_8100.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T102902_20260818T102930_004179_007A71_8100.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
@@ -276161,6 +280779,53 @@
       }
     ],
     "name": "S1C_IW_GRDH_1SDV_20251116T100648_20251116T100720_005038_009FA4_89DB.SAFE",
+    "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:f441479f-5dca-4463-9881-31eea8e7d5f4": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T11:11:39.080080Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            103.335205,
+            14.757453
+          ],
+          [
+            103.670486,
+            13.128751
+          ],
+          [
+            105.948875,
+            13.567872
+          ],
+          [
+            105.630646,
+            15.192615
+          ],
+          [
+            103.335205,
+            14.757453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "f441479f-5dca-4463-9881-31eea8e7d5f4",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(f441479f-5dca-4463-9881-31eea8e7d5f4)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1C_IW_SLC__1SDV_20260818T111139_20260818T111206_009049_011F69_2BF5.SAFE"
+      }
+    ],
+    "name": "S1C_IW_SLC__1SDV_20260818T111139_20260818T111206_009049_011F69_2BF5.SAFE",
     "sensor": "S1C",
     "source": "Copernicus",
     "type": "optical"
@@ -277763,6 +282428,53 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:f740a808-2800-4a43-bdeb-2d96f21d9d4a": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:15.057760Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            87.203156,
+            32.815639
+          ],
+          [
+            87.545219,
+            31.30969
+          ],
+          [
+            90.219551,
+            31.719316
+          ],
+          [
+            89.922523,
+            33.222824
+          ],
+          [
+            87.203156,
+            32.815639
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "f740a808-2800-4a43-bdeb-2d96f21d9d4a",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(f740a808-2800-4a43-bdeb-2d96f21d9d4a)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120615_20260818T120640_004180_007A7E_AC9D.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120615_20260818T120640_004180_007A7E_AC9D.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:f74ab433-ded3-4e86-8d1d-d865ac7ead68": {
     "cloud_cover": null,
     "datetime": "2026-01-15T10:57:03.569242Z",
@@ -278797,6 +283509,100 @@
     "source": "Copernicus",
     "type": "optical"
   },
+  "Copernicus:fa7123be-9445-4a31-ad95-845e942da217": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:09:10.056489Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            84.580826,
+            43.33136
+          ],
+          [
+            84.933327,
+            41.82476
+          ],
+          [
+            88.012527,
+            42.224991
+          ],
+          [
+            87.734612,
+            43.729557
+          ],
+          [
+            84.580826,
+            43.33136
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "fa7123be-9445-4a31-ad95-845e942da217",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(fa7123be-9445-4a31-ad95-845e942da217)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120910_20260818T120935_004180_007A7E_AAA3.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120910_20260818T120935_004180_007A7E_AAA3.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:fa8caa43-e2c8-42a5-b7d2-27105126430d": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:07:55.057672Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            85.69342,
+            38.82056
+          ],
+          [
+            86.127808,
+            37.327511
+          ],
+          [
+            89.008232,
+            37.729458
+          ],
+          [
+            88.634674,
+            39.222748
+          ],
+          [
+            85.69342,
+            38.82056
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "fa8caa43-e2c8-42a5-b7d2-27105126430d",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(fa8caa43-e2c8-42a5-b7d2-27105126430d)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_GRDH_1SDV_20260818T120755_20260818T120820_004180_007A7E_D6C0.SAFE"
+      }
+    ],
+    "name": "S1D_IW_GRDH_1SDV_20260818T120755_20260818T120820_004180_007A7E_D6C0.SAFE",
+    "sensor": "S1D",
+    "source": "Copernicus",
+    "type": "optical"
+  },
   "Copernicus:fab08a27-b1c4-4eef-ae4d-1dd0563c43ab": {
     "cloud_cover": null,
     "datetime": "2026-08-13T10:21:27.922575Z",
@@ -279217,6 +284023,53 @@
     ],
     "name": "S1C_IW_SLC__1SDV_20260430T112436_20260430T112503_007445_00F1C3_0B47.SAFE",
     "sensor": "S1C",
+    "source": "Copernicus",
+    "type": "optical"
+  },
+  "Copernicus:fbd961cd-4ed0-4bad-8d11-0554bc2e3c06": {
+    "cloud_cover": null,
+    "datetime": "2026-08-18T12:06:38.831656Z",
+    "first_seen": "2026-08-18T20:45:34.754053+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            86.856552,
+            34.366859
+          ],
+          [
+            87.231461,
+            32.743744
+          ],
+          [
+            89.885933,
+            33.142105
+          ],
+          [
+            89.563873,
+            34.763123
+          ],
+          [
+            86.856552,
+            34.366859
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "fbd961cd-4ed0-4bad-8d11-0554bc2e3c06",
+    "links": [
+      {
+        "label": "OData詳細",
+        "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(fbd961cd-4ed0-4bad-8d11-0554bc2e3c06)"
+      },
+      {
+        "label": "Copernicus Browserで開く",
+        "url": "https://browser.dataspace.copernicus.eu/?zoom=8&product=S1D_IW_SLC__1SDV_20260818T120638_20260818T120705_004180_007A7E_8A0A.SAFE"
+      }
+    ],
+    "name": "S1D_IW_SLC__1SDV_20260818T120638_20260818T120705_004180_007A7E_8A0A.SAFE",
+    "sensor": "S1D",
     "source": "Copernicus",
     "type": "optical"
   },
