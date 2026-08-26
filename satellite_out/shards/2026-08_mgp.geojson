@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
-  "generated_at": "2026-08-26T00:36:17.973731+00:00",
-  "count": 6962,
+  "generated_at": "2026-08-26T00:42:51.370588+00:00",
+  "count": 6963,
   "features": [
     {
       "type": "Feature",
@@ -47784,6 +47784,55 @@
         "coordinates": [
           [
             [
+              89.227659,
+              35.979717
+            ],
+            [
+              89.465551,
+              35.979717
+            ],
+            [
+              89.465551,
+              37.040055
+            ],
+            [
+              89.227659,
+              37.040055
+            ],
+            [
+              89.227659,
+              35.979717
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1A810",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T07:59:48.311343Z",
+        "cloud_cover": 12.626740421557267,
+        "name": "B020001100B1A810",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1A810/assets/collections/dg-archive/assets/browse/B020001100B1A810.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1A810",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               91.761068,
               43.98179
             ],
@@ -47882,6 +47931,104 @@
         "coordinates": [
           [
             [
+              88.780952,
+              41.986924
+            ],
+            [
+              89.009952,
+              41.986924
+            ],
+            [
+              89.009952,
+              43.021954
+            ],
+            [
+              88.780952,
+              43.021954
+            ],
+            [
+              88.780952,
+              41.986924
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1B010",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T07:58:10.411538Z",
+        "cloud_cover": 9.02274702362551,
+        "name": "B020001100B1B010",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1B010/assets/collections/dg-archive/assets/browse/B020001100B1B010.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1B010",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              88.573217,
+              41.980191
+            ],
+            [
+              88.829264,
+              41.980191
+            ],
+            [
+              88.829264,
+              43.028462
+            ],
+            [
+              88.573217,
+              43.028462
+            ],
+            [
+              88.573217,
+              41.980191
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1BD10",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T07:58:24.211451Z",
+        "cloud_cover": 4.684286493498114,
+        "name": "B020001100B1BD10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1BD10/assets/collections/dg-archive/assets/browse/B020001100B1BD10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1BD10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               91.98533,
               47.980325
             ],
@@ -47915,6 +48062,55 @@
         "name": "B020001100B1BF10",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1BF10/assets/collections/dg-archive/assets/browse/B020001100B1BF10.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1BF10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              88.364008,
+              41.97443
+            ],
+            [
+              88.630587,
+              41.97443
+            ],
+            [
+              88.630587,
+              43.037692
+            ],
+            [
+              88.364008,
+              43.037692
+            ],
+            [
+              88.364008,
+              41.97443
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1C010",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T07:58:37.611364Z",
+        "cloud_cover": 7.289081041552942,
+        "name": "B020001100B1C010",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C010/assets/collections/dg-archive/assets/browse/B020001100B1C010.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C010",
         "download_url": null,
         "links": [
           {
@@ -48062,6 +48258,300 @@
         "name": "B020001100B1C810",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C810/assets/collections/dg-archive/assets/browse/B020001100B1C810.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C810",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              89.783332,
+              35.974077
+            ],
+            [
+              90.007693,
+              35.974077
+            ],
+            [
+              90.007693,
+              37.026335
+            ],
+            [
+              89.783332,
+              37.026335
+            ],
+            [
+              89.783332,
+              35.974077
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1C910",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T07:59:05.011607Z",
+        "cloud_cover": 11.0500122505349,
+        "name": "B020001100B1C910",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C910/assets/collections/dg-archive/assets/browse/B020001100B1C910.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C910",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              89.597227,
+              35.96896
+            ],
+            [
+              89.816821,
+              35.96896
+            ],
+            [
+              89.816821,
+              37.005644
+            ],
+            [
+              89.597227,
+              37.005644
+            ],
+            [
+              89.597227,
+              35.96896
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1CA10",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T07:59:19.111519Z",
+        "cloud_cover": 8.1957462651836,
+        "name": "B020001100B1CA10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CA10/assets/collections/dg-archive/assets/browse/B020001100B1CA10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CA10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              89.415349,
+              35.990549
+            ],
+            [
+              89.631632,
+              35.990549
+            ],
+            [
+              89.631632,
+              37.018456
+            ],
+            [
+              89.415349,
+              37.018456
+            ],
+            [
+              89.415349,
+              35.990549
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1CB10",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T07:59:33.361432Z",
+        "cloud_cover": 8.376072222394106,
+        "name": "B020001100B1CB10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CB10/assets/collections/dg-archive/assets/browse/B020001100B1CB10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CB10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              89.03171,
+              35.958637
+            ],
+            [
+              89.275552,
+              35.958637
+            ],
+            [
+              89.275552,
+              37.051079
+            ],
+            [
+              89.03171,
+              37.051079
+            ],
+            [
+              89.03171,
+              35.958637
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1CC10",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T08:00:02.311590Z",
+        "cloud_cover": 17.12818569801415,
+        "name": "B020001100B1CC10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CC10/assets/collections/dg-archive/assets/browse/B020001100B1CC10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CC10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              85.110399,
+              31.983594
+            ],
+            [
+              85.320849,
+              31.983594
+            ],
+            [
+              85.320849,
+              32.518693
+            ],
+            [
+              85.110399,
+              32.518693
+            ],
+            [
+              85.110399,
+              31.983594
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B1E210",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T08:00:42.862412Z",
+        "cloud_cover": 92.29869275363968,
+        "name": "B020001100B1E210",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1E210/assets/collections/dg-archive/assets/browse/B020001100B1E210.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1E210",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              85.297045,
+              31.983975
+            ],
+            [
+              85.506403,
+              31.983975
+            ],
+            [
+              85.506403,
+              32.517373
+            ],
+            [
+              85.297045,
+              32.517373
+            ],
+            [
+              85.297045,
+              31.983975
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B020001100B27010",
+        "source": "MGP",
+        "sensor": "WV01",
+        "type": "optical",
+        "datetime": "2026-08-19T08:00:32.861499Z",
+        "cloud_cover": 86.78451364621577,
+        "name": "B020001100B27010",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B27010/assets/collections/dg-archive/assets/browse/B020001100B27010.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B27010",
         "download_url": null,
         "links": [
           {
@@ -93795,6 +94285,55 @@
         "coordinates": [
           [
             [
+              126.628624,
+              38.581386
+            ],
+            [
+              126.824585,
+              38.581386
+            ],
+            [
+              126.824585,
+              38.712359
+            ],
+            [
+              126.628624,
+              38.712359
+            ],
+            [
+              126.628624,
+              38.581386
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B030001100B4AE10",
+        "source": "MGP",
+        "sensor": "WV02",
+        "type": "optical",
+        "datetime": "2026-08-19T02:19:04.938709Z",
+        "cloud_cover": 99.29606648552661,
+        "name": "B030001100B4AE10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4AE10/assets/collections/dg-archive/assets/browse/B030001100B4AE10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4AE10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               121.749254,
               31.476533
             ],
@@ -94236,6 +94775,55 @@
         "coordinates": [
           [
             [
+              126.155232,
+              39.373009
+            ],
+            [
+              126.360084,
+              39.373009
+            ],
+            [
+              126.360084,
+              39.509708
+            ],
+            [
+              126.155232,
+              39.509708
+            ],
+            [
+              126.155232,
+              39.373009
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B030001100B4F610",
+        "source": "MGP",
+        "sensor": "WV02",
+        "type": "optical",
+        "datetime": "2026-08-19T02:18:55.889107Z",
+        "cloud_cover": 98.62953288178632,
+        "name": "B030001100B4F610",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4F610/assets/collections/dg-archive/assets/browse/B030001100B4F610.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4F610",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               121.464315,
               24.985101
             ],
@@ -94269,6 +94857,251 @@
         "name": "B030001100B4F710",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4F710/assets/collections/dg-archive/assets/browse/B030001100B4F710.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4F710",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              80.371477,
+              40.479081
+            ],
+            [
+              80.586417,
+              40.479081
+            ],
+            [
+              80.586417,
+              41.004545
+            ],
+            [
+              80.371477,
+              41.004545
+            ],
+            [
+              80.371477,
+              40.479081
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B030001100B51D10",
+        "source": "MGP",
+        "sensor": "WV02",
+        "type": "optical",
+        "datetime": "2026-08-19T05:39:06.588991Z",
+        "cloud_cover": 0.0,
+        "name": "B030001100B51D10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51D10/assets/collections/dg-archive/assets/browse/B030001100B51D10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51D10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              83.032707,
+              41.479511
+            ],
+            [
+              83.296872,
+              41.479511
+            ],
+            [
+              83.296872,
+              42.028095
+            ],
+            [
+              83.032707,
+              42.028095
+            ],
+            [
+              83.032707,
+              41.479511
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B030001100B51E10",
+        "source": "MGP",
+        "sensor": "WV02",
+        "type": "optical",
+        "datetime": "2026-08-19T05:38:46.389803Z",
+        "cloud_cover": 0.008509514934554013,
+        "name": "B030001100B51E10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51E10/assets/collections/dg-archive/assets/browse/B030001100B51E10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51E10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              78.121915,
+              35.090087
+            ],
+            [
+              78.310837,
+              35.090087
+            ],
+            [
+              78.310837,
+              35.554659
+            ],
+            [
+              78.121915,
+              35.554659
+            ],
+            [
+              78.121915,
+              35.090087
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B030001100B51F10",
+        "source": "MGP",
+        "sensor": "WV02",
+        "type": "optical",
+        "datetime": "2026-08-19T05:39:33.489772Z",
+        "cloud_cover": 78.94579905048496,
+        "name": "B030001100B51F10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51F10/assets/collections/dg-archive/assets/browse/B030001100B51F10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51F10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              77.958276,
+              35.088158
+            ],
+            [
+              78.143899,
+              35.088158
+            ],
+            [
+              78.143899,
+              35.551759
+            ],
+            [
+              77.958276,
+              35.551759
+            ],
+            [
+              77.958276,
+              35.088158
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B030001100B52210",
+        "source": "MGP",
+        "sensor": "WV02",
+        "type": "optical",
+        "datetime": "2026-08-19T05:39:44.990570Z",
+        "cloud_cover": 55.732658128676405,
+        "name": "B030001100B52210",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52210/assets/collections/dg-archive/assets/browse/B030001100B52210.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52210",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              77.799431,
+              35.092281
+            ],
+            [
+              77.980651,
+              35.092281
+            ],
+            [
+              77.980651,
+              35.551545
+            ],
+            [
+              77.799431,
+              35.551545
+            ],
+            [
+              77.799431,
+              35.092281
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B030001100B52310",
+        "source": "MGP",
+        "sensor": "WV02",
+        "type": "optical",
+        "datetime": "2026-08-19T05:39:56.789767Z",
+        "cloud_cover": 56.80058721595378,
+        "name": "B030001100B52310",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52310/assets/collections/dg-archive/assets/browse/B030001100B52310.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52310",
         "download_url": null,
         "links": [
           {
@@ -122166,6 +122999,55 @@
         "coordinates": [
           [
             [
+              122.823164,
+              44.71696
+            ],
+            [
+              123.005295,
+              44.71696
+            ],
+            [
+              123.005295,
+              46.032974
+            ],
+            [
+              122.823164,
+              46.032974
+            ],
+            [
+              122.823164,
+              44.71696
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B04000110078FA10",
+        "source": "MGP",
+        "sensor": "WV03",
+        "type": "optical",
+        "datetime": "2026-08-19T02:57:30.471431Z",
+        "cloud_cover": 20.34428587396699,
+        "name": "B04000110078FA10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B04000110078FA10/assets/collections/dg-archive/assets/browse/B04000110078FA10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B04000110078FA10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               114.238671,
               22.136375
             ],
@@ -122199,6 +123081,300 @@
         "name": "B04000110078FF10",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B04000110078FF10/assets/collections/dg-archive/assets/browse/B04000110078FF10.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B04000110078FF10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              122.329557,
+              43.983853
+            ],
+            [
+              122.50353,
+              43.983853
+            ],
+            [
+              122.50353,
+              44.530201
+            ],
+            [
+              122.329557,
+              44.530201
+            ],
+            [
+              122.329557,
+              43.983853
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B040001100790110",
+        "source": "MGP",
+        "sensor": "WV03",
+        "type": "optical",
+        "datetime": "2026-08-19T02:58:06.470122Z",
+        "cloud_cover": 13.435380979345837,
+        "name": "B040001100790110",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790110/assets/collections/dg-archive/assets/browse/B040001100790110.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790110",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              125.791088,
+              51.978342
+            ],
+            [
+              126.005606,
+              51.978342
+            ],
+            [
+              126.005606,
+              52.535652
+            ],
+            [
+              125.791088,
+              52.535652
+            ],
+            [
+              125.791088,
+              51.978342
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B040001100790310",
+        "source": "MGP",
+        "sensor": "WV03",
+        "type": "optical",
+        "datetime": "2026-08-19T02:55:33.570161Z",
+        "cloud_cover": 7.018524280330149,
+        "name": "B040001100790310",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790310/assets/collections/dg-archive/assets/browse/B040001100790310.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790310",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              125.611091,
+              51.963588
+            ],
+            [
+              125.819282,
+              51.963588
+            ],
+            [
+              125.819282,
+              52.514383
+            ],
+            [
+              125.611091,
+              52.514383
+            ],
+            [
+              125.611091,
+              51.963588
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B040001100790410",
+        "source": "MGP",
+        "sensor": "WV03",
+        "type": "optical",
+        "datetime": "2026-08-19T02:55:48.870121Z",
+        "cloud_cover": 12.150948759634566,
+        "name": "B040001100790410",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790410/assets/collections/dg-archive/assets/browse/B040001100790410.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790410",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              125.442163,
+              51.984749
+            ],
+            [
+              125.6432,
+              51.984749
+            ],
+            [
+              125.6432,
+              52.526995
+            ],
+            [
+              125.442163,
+              52.526995
+            ],
+            [
+              125.442163,
+              51.984749
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B040001100790510",
+        "source": "MGP",
+        "sensor": "WV03",
+        "type": "optical",
+        "datetime": "2026-08-19T02:56:04.970077Z",
+        "cloud_cover": 15.52823372352465,
+        "name": "B040001100790510",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790510/assets/collections/dg-archive/assets/browse/B040001100790510.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790510",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              125.268239,
+              51.974368
+            ],
+            [
+              125.478522,
+              51.974368
+            ],
+            [
+              125.478522,
+              52.519977
+            ],
+            [
+              125.268239,
+              52.519977
+            ],
+            [
+              125.268239,
+              51.974368
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B040001100790610",
+        "source": "MGP",
+        "sensor": "WV03",
+        "type": "optical",
+        "datetime": "2026-08-19T02:56:21.570033Z",
+        "cloud_cover": 33.60869061714283,
+        "name": "B040001100790610",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790610/assets/collections/dg-archive/assets/browse/B040001100790610.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790610",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              125.089246,
+              51.974706
+            ],
+            [
+              125.304325,
+              51.974706
+            ],
+            [
+              125.304325,
+              52.536984
+            ],
+            [
+              125.089246,
+              52.536984
+            ],
+            [
+              125.089246,
+              51.974706
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B040001100790710",
+        "source": "MGP",
+        "sensor": "WV03",
+        "type": "optical",
+        "datetime": "2026-08-19T02:56:38.069990Z",
+        "cloud_cover": 62.67208330576391,
+        "name": "B040001100790710",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790710/assets/collections/dg-archive/assets/browse/B040001100790710.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790710",
         "download_url": null,
         "links": [
           {
@@ -142305,6 +143481,104 @@
         "coordinates": [
           [
             [
+              126.642254,
+              38.609449
+            ],
+            [
+              126.829119,
+              38.609449
+            ],
+            [
+              126.829119,
+              38.724962
+            ],
+            [
+              126.642254,
+              38.724962
+            ],
+            [
+              126.642254,
+              38.609449
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B050001100588610",
+        "source": "MGP",
+        "sensor": "GE01",
+        "type": "optical",
+        "datetime": "2026-08-19T02:20:12.485291Z",
+        "cloud_cover": 99.5077590338032,
+        "name": "B050001100588610",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588610/assets/collections/dg-archive/assets/browse/B050001100588610.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588610",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              124.602775,
+              39.573669
+            ],
+            [
+              124.838433,
+              39.573669
+            ],
+            [
+              124.838433,
+              39.739442
+            ],
+            [
+              124.602775,
+              39.739442
+            ],
+            [
+              124.602775,
+              39.573669
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B050001100588710",
+        "source": "MGP",
+        "sensor": "GE01",
+        "type": "optical",
+        "datetime": "2026-08-19T02:20:51.885098Z",
+        "cloud_cover": 96.96501214089747,
+        "name": "B050001100588710",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588710/assets/collections/dg-archive/assets/browse/B050001100588710.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588710",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               118.583482,
               24.649025
             ],
@@ -142828,6 +144102,55 @@
         "name": "B05000110058B110",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B05000110058B110/assets/collections/dg-archive/assets/browse/B05000110058B110.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B05000110058B110",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              78.350584,
+              36.467927
+            ],
+            [
+              78.525193,
+              36.467927
+            ],
+            [
+              78.525193,
+              36.550818
+            ],
+            [
+              78.350584,
+              36.550818
+            ],
+            [
+              78.350584,
+              36.467927
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B05000110058C710",
+        "source": "MGP",
+        "sensor": "GE01",
+        "type": "optical",
+        "datetime": "2026-08-19T05:37:55.885014Z",
+        "cloud_cover": 0.0,
+        "name": "B05000110058C710",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B05000110058C710/assets/collections/dg-archive/assets/browse/B05000110058C710.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B05000110058C710",
         "download_url": null,
         "links": [
           {
@@ -164404,6 +165727,55 @@
         "coordinates": [
           [
             [
+              124.372185,
+              44.476475
+            ],
+            [
+              124.507274,
+              44.476475
+            ],
+            [
+              124.507274,
+              45.017847
+            ],
+            [
+              124.372185,
+              45.017847
+            ],
+            [
+              124.372185,
+              44.476475
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B11000110109A910",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-01",
+        "type": "optical",
+        "datetime": "2026-08-19T02:51:13.882000Z",
+        "cloud_cover": 19.562608456776676,
+        "name": "B11000110109A910",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109A910/assets/collections/dg-archive/assets/browse/B11000110109A910.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109A910",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               117.800666,
               15.19476
             ],
@@ -165025,6 +166397,202 @@
         "name": "B11000110109D410",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109D410/assets/collections/dg-archive/assets/browse/B11000110109D410.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109D410",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              78.748153,
+              44.473507
+            ],
+            [
+              78.884442,
+              44.473507
+            ],
+            [
+              78.884442,
+              45.016055
+            ],
+            [
+              78.748153,
+              45.016055
+            ],
+            [
+              78.748153,
+              44.473507
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B11000110109D810",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-01",
+        "type": "optical",
+        "datetime": "2026-08-19T06:00:19.382000Z",
+        "cloud_cover": 0.0,
+        "name": "B11000110109D810",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109D810/assets/collections/dg-archive/assets/browse/B11000110109D810.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109D810",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              78.644552,
+              44.484339
+            ],
+            [
+              78.772817,
+              44.484339
+            ],
+            [
+              78.772817,
+              45.01803
+            ],
+            [
+              78.644552,
+              45.01803
+            ],
+            [
+              78.644552,
+              44.484339
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B11000110109DA10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-01",
+        "type": "optical",
+        "datetime": "2026-08-19T06:00:45.256000Z",
+        "cloud_cover": 0.005144280033422689,
+        "name": "B11000110109DA10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DA10/assets/collections/dg-archive/assets/browse/B11000110109DA10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DA10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              78.530365,
+              44.467732
+            ],
+            [
+              78.669812,
+              44.467732
+            ],
+            [
+              78.669812,
+              45.018334
+            ],
+            [
+              78.530365,
+              45.018334
+            ],
+            [
+              78.530365,
+              44.467732
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B11000110109DB10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-01",
+        "type": "optical",
+        "datetime": "2026-08-19T06:01:13.932000Z",
+        "cloud_cover": 0.0,
+        "name": "B11000110109DB10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DB10/assets/collections/dg-archive/assets/browse/B11000110109DB10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DB10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              76.489946,
+              37.472344
+            ],
+            [
+              76.613217,
+              37.472344
+            ],
+            [
+              76.613217,
+              39.020621
+            ],
+            [
+              76.489946,
+              39.020621
+            ],
+            [
+              76.489946,
+              37.472344
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B11000110109DE10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-01",
+        "type": "optical",
+        "datetime": "2026-08-19T06:01:56.881000Z",
+        "cloud_cover": 23.004242346527846,
+        "name": "B11000110109DE10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DE10/assets/collections/dg-archive/assets/browse/B11000110109DE10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DE10",
         "download_url": null,
         "links": [
           {
@@ -187777,6 +189345,55 @@
         "coordinates": [
           [
             [
+              116.752943,
+              44.961787
+            ],
+            [
+              116.895579,
+              44.961787
+            ],
+            [
+              116.895579,
+              46.519952
+            ],
+            [
+              116.752943,
+              46.519952
+            ],
+            [
+              116.752943,
+              44.961787
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B1200011010ADD10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-02",
+        "type": "optical",
+        "datetime": "2026-08-19T03:34:30.257000Z",
+        "cloud_cover": 0.8395132763239764,
+        "name": "B1200011010ADD10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010ADD10/assets/collections/dg-archive/assets/browse/B1200011010ADD10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010ADD10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               110.867204,
               40.475852
             ],
@@ -188071,6 +189688,55 @@
         "coordinates": [
           [
             [
+              118.360595,
+              48.980295
+            ],
+            [
+              118.514634,
+              48.980295
+            ],
+            [
+              118.514634,
+              49.515779
+            ],
+            [
+              118.360595,
+              49.515779
+            ],
+            [
+              118.360595,
+              48.980295
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B1200011010AEC10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-02",
+        "type": "optical",
+        "datetime": "2026-08-19T03:33:54.757000Z",
+        "cloud_cover": 97.67652022429093,
+        "name": "B1200011010AEC10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010AEC10/assets/collections/dg-archive/assets/browse/B1200011010AEC10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010AEC10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               112.265074,
               34.421233
             ],
@@ -188349,6 +190015,55 @@
         "name": "B1200011010AFD10",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010AFD10/assets/collections/dg-archive/assets/browse/B1200011010AFD10.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010AFD10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              87.895387,
+              34.982899
+            ],
+            [
+              88.005154,
+              34.982899
+            ],
+            [
+              88.005154,
+              35.514086
+            ],
+            [
+              87.895387,
+              35.514086
+            ],
+            [
+              87.895387,
+              34.982899
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B1200011010B0410",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-02",
+        "type": "optical",
+        "datetime": "2026-08-19T05:12:48.257000Z",
+        "cloud_cover": 82.16105035981165,
+        "name": "B1200011010B0410",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010B0410/assets/collections/dg-archive/assets/browse/B1200011010B0410.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010B0410",
         "download_url": null,
         "links": [
           {
@@ -234915,6 +236630,55 @@
         "coordinates": [
           [
             [
+              109.274605,
+              38.48281
+            ],
+            [
+              109.399583,
+              38.48281
+            ],
+            [
+              109.399583,
+              40.003437
+            ],
+            [
+              109.274605,
+              40.003437
+            ],
+            [
+              109.274605,
+              38.48281
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101010010",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T01:54:25.749840Z",
+        "cloud_cover": 0.005724939967820482,
+        "name": "B130001101010010",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010010/assets/collections/dg-archive/assets/browse/B130001101010010.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010010",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               102.691387,
               34.48293
             ],
@@ -235013,6 +236777,300 @@
         "coordinates": [
           [
             [
+              112.693404,
+              39.985199
+            ],
+            [
+              112.814726,
+              39.985199
+            ],
+            [
+              112.814726,
+              40.516954
+            ],
+            [
+              112.693404,
+              40.516954
+            ],
+            [
+              112.693404,
+              39.985199
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101010310",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T01:55:26.374814Z",
+        "cloud_cover": 0.0,
+        "name": "B130001101010310",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010310/assets/collections/dg-archive/assets/browse/B130001101010310.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010310",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              117.493322,
+              41.481108
+            ],
+            [
+              117.626489,
+              41.481108
+            ],
+            [
+              117.626489,
+              42.018475
+            ],
+            [
+              117.493322,
+              42.018475
+            ],
+            [
+              117.493322,
+              41.481108
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101010410",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T01:56:14.874691Z",
+        "cloud_cover": 60.01711426836502,
+        "name": "B130001101010410",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010410/assets/collections/dg-archive/assets/browse/B130001101010410.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010410",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              117.601222,
+              41.48574
+            ],
+            [
+              117.725202,
+              41.48574
+            ],
+            [
+              117.725202,
+              42.013618
+            ],
+            [
+              117.601222,
+              42.013618
+            ],
+            [
+              117.601222,
+              41.48574
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101010510",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T01:56:37.874702Z",
+        "cloud_cover": 37.18103713453848,
+        "name": "B130001101010510",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010510/assets/collections/dg-archive/assets/browse/B130001101010510.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010510",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              117.696206,
+              41.483748
+            ],
+            [
+              117.83703,
+              41.483748
+            ],
+            [
+              117.83703,
+              42.017494
+            ],
+            [
+              117.696206,
+              42.017494
+            ],
+            [
+              117.696206,
+              41.483748
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101010610",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T01:57:01.374807Z",
+        "cloud_cover": 14.18097824050258,
+        "name": "B130001101010610",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010610/assets/collections/dg-archive/assets/browse/B130001101010610.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010610",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              77.185834,
+              33.483899
+            ],
+            [
+              77.31274,
+              33.483899
+            ],
+            [
+              77.31274,
+              34.014044
+            ],
+            [
+              77.185834,
+              34.014044
+            ],
+            [
+              77.185834,
+              33.483899
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101011B10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T03:27:01.374810Z",
+        "cloud_cover": 94.79152327029215,
+        "name": "B130001101011B10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011B10/assets/collections/dg-archive/assets/browse/B130001101011B10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011B10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              77.593752,
+              33.983515
+            ],
+            [
+              77.705517,
+              33.983515
+            ],
+            [
+              77.705517,
+              34.517054
+            ],
+            [
+              77.593752,
+              34.517054
+            ],
+            [
+              77.593752,
+              33.983515
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101011C10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T03:27:34.500421Z",
+        "cloud_cover": 81.13602179803824,
+        "name": "B130001101011C10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011C10/assets/collections/dg-archive/assets/browse/B130001101011C10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011C10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               94.870664,
               41.482562
             ],
@@ -235046,6 +237104,55 @@
         "name": "B130001101011E10",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011E10/assets/collections/dg-archive/assets/browse/B130001101011E10.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011E10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              80.384829,
+              36.483663
+            ],
+            [
+              80.511036,
+              36.483663
+            ],
+            [
+              80.511036,
+              38.019715
+            ],
+            [
+              80.384829,
+              38.019715
+            ],
+            [
+              80.384829,
+              36.483663
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101011F10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T03:28:22.624845Z",
+        "cloud_cover": 6.719239405380232,
+        "name": "B130001101011F10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011F10/assets/collections/dg-archive/assets/browse/B130001101011F10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011F10",
         "download_url": null,
         "links": [
           {
@@ -235454,6 +237561,55 @@
         "coordinates": [
           [
             [
+              82.750531,
+              44.478594
+            ],
+            [
+              82.889412,
+              44.478594
+            ],
+            [
+              82.889412,
+              46.011034
+            ],
+            [
+              82.750531,
+              46.011034
+            ],
+            [
+              82.750531,
+              44.478594
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101016110",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T06:48:39.624900Z",
+        "cloud_cover": 6.206596762187577,
+        "name": "B130001101016110",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016110/assets/collections/dg-archive/assets/browse/B130001101016110.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016110",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               116.377566,
               16.763107
             ],
@@ -235650,6 +237806,55 @@
         "coordinates": [
           [
             [
+              88.985017,
+              42.974221
+            ],
+            [
+              89.118763,
+              42.974221
+            ],
+            [
+              89.118763,
+              44.513464
+            ],
+            [
+              88.985017,
+              44.513464
+            ],
+            [
+              88.985017,
+              42.974221
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101016E10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T06:50:01.749819Z",
+        "cloud_cover": 1.4780535072573788,
+        "name": "B130001101016E10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016E10/assets/collections/dg-archive/assets/browse/B130001101016E10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016E10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               109.203093,
               38.486277
             ],
@@ -235748,6 +237953,55 @@
         "coordinates": [
           [
             [
+              78.371979,
+              42.422107
+            ],
+            [
+              78.508712,
+              42.422107
+            ],
+            [
+              78.508712,
+              42.589589
+            ],
+            [
+              78.371979,
+              42.589589
+            ],
+            [
+              78.371979,
+              42.422107
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101018A10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T08:27:40.124789Z",
+        "cloud_cover": 0.7469017811529565,
+        "name": "B130001101018A10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101018A10/assets/collections/dg-archive/assets/browse/B130001101018A10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101018A10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               111.245484,
               36.986955
             ],
@@ -235781,6 +238035,202 @@
         "name": "B130001101018B10",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101018B10/assets/collections/dg-archive/assets/browse/B130001101018B10.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101018B10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              85.50947844661835,
+              37.98388442753276
+            ],
+            [
+              85.63918862159562,
+              37.98388442753276
+            ],
+            [
+              85.63918862159562,
+              38.51724329387072
+            ],
+            [
+              85.50947844661835,
+              38.51724329387072
+            ],
+            [
+              85.50947844661835,
+              37.98388442753276
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101018D10",
+        "source": "MGP",
+        "sensor": "MAXAR",
+        "type": "optical",
+        "datetime": "2026-08-19T08:29:12.882Z",
+        "cloud_cover": 0,
+        "name": "B130001101018D10",
+        "thumbnail_url": "https://api.maxar.com/analytics/v1/raster/browse/geotiff?function=browse&p=collect_identifier=%22B130001101018D10%22",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/cloud-optimized-archive/items/B130001101018D10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              85.61431176201467,
+              37.985905340967165
+            ],
+            [
+              85.73028804078481,
+              37.985905340967165
+            ],
+            [
+              85.73028804078481,
+              38.51207765543357
+            ],
+            [
+              85.61431176201467,
+              38.51207765543357
+            ],
+            [
+              85.61431176201467,
+              37.985905340967165
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101018F10",
+        "source": "MGP",
+        "sensor": "MAXAR",
+        "type": "optical",
+        "datetime": "2026-08-19T08:29:36.632Z",
+        "cloud_cover": 0,
+        "name": "B130001101018F10",
+        "thumbnail_url": "https://api.maxar.com/analytics/v1/raster/browse/geotiff?function=browse&p=collect_identifier=%22B130001101018F10%22",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/cloud-optimized-archive/items/B130001101018F10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              85.707289,
+              37.979089
+            ],
+            [
+              85.833448,
+              37.979089
+            ],
+            [
+              85.833448,
+              38.51918
+            ],
+            [
+              85.707289,
+              38.51918
+            ],
+            [
+              85.707289,
+              37.979089
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101019210",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T08:30:01.124704Z",
+        "cloud_cover": 0.0,
+        "name": "B130001101019210",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019210/assets/collections/dg-archive/assets/browse/B130001101019210.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019210",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              80.097817,
+              39.978298
+            ],
+            [
+              80.227028,
+              39.978298
+            ],
+            [
+              80.227028,
+              41.51959
+            ],
+            [
+              80.097817,
+              41.51959
+            ],
+            [
+              80.097817,
+              39.978298
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B130001101019310",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-03",
+        "type": "optical",
+        "datetime": "2026-08-19T08:28:06.749788Z",
+        "cloud_cover": 55.654619338310894,
+        "name": "B130001101019310",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019310/assets/collections/dg-archive/assets/browse/B130001101019310.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019310",
         "download_url": null,
         "links": [
           {
@@ -261130,6 +263580,55 @@
         "coordinates": [
           [
             [
+              81.383171,
+              39.486087
+            ],
+            [
+              81.506838,
+              39.486087
+            ],
+            [
+              81.506838,
+              40.018932
+            ],
+            [
+              81.383171,
+              40.018932
+            ],
+            [
+              81.383171,
+              39.486087
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B140001100F5B210",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-04",
+        "type": "optical",
+        "datetime": "2026-08-19T09:48:05.374784Z",
+        "cloud_cover": 56.19562678891508,
+        "name": "B140001100F5B210",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5B210/assets/collections/dg-archive/assets/browse/B140001100F5B210.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5B210",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               79.681148,
               36.476269
             ],
@@ -261163,6 +263662,55 @@
         "name": "B140001100F5BC10",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5BC10/assets/collections/dg-archive/assets/browse/B140001100F5BC10.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5BC10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              86.380617,
+              40.479816
+            ],
+            [
+              86.509726,
+              40.479816
+            ],
+            [
+              86.509726,
+              42.013183
+            ],
+            [
+              86.380617,
+              42.013183
+            ],
+            [
+              86.380617,
+              40.479816
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B140001100F5C110",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-04",
+        "type": "optical",
+        "datetime": "2026-08-19T09:48:57.382000Z",
+        "cloud_cover": 4.657042971057202,
+        "name": "B140001100F5C110",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5C110/assets/collections/dg-archive/assets/browse/B140001100F5C110.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5C110",
         "download_url": null,
         "links": [
           {
@@ -316010,6 +318558,153 @@
         "coordinates": [
           [
             [
+              111.387064,
+              38.982834
+            ],
+            [
+              111.508967,
+              38.982834
+            ],
+            [
+              111.508967,
+              39.510142
+            ],
+            [
+              111.387064,
+              39.510142
+            ],
+            [
+              111.387064,
+              38.982834
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B150001101CA9310",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-05",
+        "type": "optical",
+        "datetime": "2026-08-19T00:31:32.499579Z",
+        "cloud_cover": 0.0,
+        "name": "B150001101CA9310",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9310/assets/collections/dg-archive/assets/browse/B150001101CA9310.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9310",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              114.601421,
+              37.773939
+            ],
+            [
+              114.732082,
+              37.773939
+            ],
+            [
+              114.732082,
+              38.019978
+            ],
+            [
+              114.601421,
+              38.019978
+            ],
+            [
+              114.601421,
+              37.773939
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B150001101CA9410",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-05",
+        "type": "optical",
+        "datetime": "2026-08-19T00:32:51.874715Z",
+        "cloud_cover": 73.74470632547394,
+        "name": "B150001101CA9410",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9410/assets/collections/dg-archive/assets/browse/B150001101CA9410.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9410",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              111.485202,
+              38.981795
+            ],
+            [
+              111.611954,
+              38.981795
+            ],
+            [
+              111.611954,
+              39.510895
+            ],
+            [
+              111.485202,
+              39.510895
+            ],
+            [
+              111.485202,
+              38.981795
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B150001101CA9510",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-05",
+        "type": "optical",
+        "datetime": "2026-08-19T00:31:55.749705Z",
+        "cloud_cover": 0.0,
+        "name": "B150001101CA9510",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9510/assets/collections/dg-archive/assets/browse/B150001101CA9510.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9510",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               119.791814,
               35.479713
             ],
@@ -316435,6 +319130,104 @@
         "name": "B150001101CABF10",
         "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CABF10/assets/collections/dg-archive/assets/browse/B150001101CABF10.browse.tif",
         "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CABF10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              75.989021,
+              34.478771
+            ],
+            [
+              76.118219,
+              34.478771
+            ],
+            [
+              76.118219,
+              35.020888
+            ],
+            [
+              75.989021,
+              35.020888
+            ],
+            [
+              75.989021,
+              34.478771
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B150001101CACC10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-05",
+        "type": "optical",
+        "datetime": "2026-08-19T03:44:11.624636Z",
+        "cloud_cover": 73.5257048656549,
+        "name": "B150001101CACC10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACC10/assets/collections/dg-archive/assets/browse/B150001101CACC10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACC10",
+        "download_url": null,
+        "links": [
+          {
+            "label": "Vantor Hub（旧MGP Pro）で開く",
+            "url": "https://pro.maxar.com"
+          }
+        ],
+        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              76.091478,
+              34.484261
+            ],
+            [
+              76.202578,
+              34.484261
+            ],
+            [
+              76.202578,
+              35.017657
+            ],
+            [
+              76.091478,
+              35.017657
+            ],
+            [
+              76.091478,
+              34.484261
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "B150001101CACD10",
+        "source": "MGP",
+        "sensor": "WORLDVIEW-LEGION-05",
+        "type": "optical",
+        "datetime": "2026-08-19T03:44:35.499709Z",
+        "cloud_cover": 53.95325397965103,
+        "name": "B150001101CACD10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACD10/assets/collections/dg-archive/assets/browse/B150001101CACD10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACD10",
         "download_url": null,
         "links": [
           {
@@ -338351,630 +341144,42 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
-              89.227659,
-              35.979717
+              110.047072,
+              44.830878
             ],
             [
-              89.465551,
-              35.979717
+              110.192211,
+              44.830878
             ],
             [
-              89.465551,
-              37.040055
+              110.192211,
+              44.991
             ],
             [
-              89.227659,
-              37.040055
+              110.047072,
+              44.991
             ],
             [
-              89.227659,
-              35.979717
+              110.047072,
+              44.830878
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
       },
       "properties": {
-        "id": "B020001100B1A810",
+        "id": "B1300011010CBF10",
         "source": "MGP",
-        "sensor": "WV01",
+        "sensor": "WORLDVIEW-LEGION-03",
         "type": "optical",
-        "datetime": "2026-08-19T07:59:48.311343Z",
-        "cloud_cover": 12.626740421557267,
-        "name": "B020001100B1A810",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1A810/assets/collections/dg-archive/assets/browse/B020001100B1A810.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1A810",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              88.780952,
-              41.986924
-            ],
-            [
-              89.009952,
-              41.986924
-            ],
-            [
-              89.009952,
-              43.021954
-            ],
-            [
-              88.780952,
-              43.021954
-            ],
-            [
-              88.780952,
-              41.986924
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1B010",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T07:58:10.411538Z",
-        "cloud_cover": 9.02274702362551,
-        "name": "B020001100B1B010",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1B010/assets/collections/dg-archive/assets/browse/B020001100B1B010.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1B010",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              88.573217,
-              41.980191
-            ],
-            [
-              88.829264,
-              41.980191
-            ],
-            [
-              88.829264,
-              43.028462
-            ],
-            [
-              88.573217,
-              43.028462
-            ],
-            [
-              88.573217,
-              41.980191
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1BD10",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T07:58:24.211451Z",
-        "cloud_cover": 4.684286493498114,
-        "name": "B020001100B1BD10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1BD10/assets/collections/dg-archive/assets/browse/B020001100B1BD10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1BD10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              88.364008,
-              41.97443
-            ],
-            [
-              88.630587,
-              41.97443
-            ],
-            [
-              88.630587,
-              43.037692
-            ],
-            [
-              88.364008,
-              43.037692
-            ],
-            [
-              88.364008,
-              41.97443
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1C010",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T07:58:37.611364Z",
-        "cloud_cover": 7.289081041552942,
-        "name": "B020001100B1C010",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C010/assets/collections/dg-archive/assets/browse/B020001100B1C010.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C010",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              89.783332,
-              35.974077
-            ],
-            [
-              90.007693,
-              35.974077
-            ],
-            [
-              90.007693,
-              37.026335
-            ],
-            [
-              89.783332,
-              37.026335
-            ],
-            [
-              89.783332,
-              35.974077
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1C910",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T07:59:05.011607Z",
-        "cloud_cover": 11.0500122505349,
-        "name": "B020001100B1C910",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C910/assets/collections/dg-archive/assets/browse/B020001100B1C910.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1C910",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              89.597227,
-              35.96896
-            ],
-            [
-              89.816821,
-              35.96896
-            ],
-            [
-              89.816821,
-              37.005644
-            ],
-            [
-              89.597227,
-              37.005644
-            ],
-            [
-              89.597227,
-              35.96896
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1CA10",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T07:59:19.111519Z",
-        "cloud_cover": 8.1957462651836,
-        "name": "B020001100B1CA10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CA10/assets/collections/dg-archive/assets/browse/B020001100B1CA10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CA10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              89.415349,
-              35.990549
-            ],
-            [
-              89.631632,
-              35.990549
-            ],
-            [
-              89.631632,
-              37.018456
-            ],
-            [
-              89.415349,
-              37.018456
-            ],
-            [
-              89.415349,
-              35.990549
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1CB10",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T07:59:33.361432Z",
-        "cloud_cover": 8.376072222394106,
-        "name": "B020001100B1CB10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CB10/assets/collections/dg-archive/assets/browse/B020001100B1CB10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CB10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              89.03171,
-              35.958637
-            ],
-            [
-              89.275552,
-              35.958637
-            ],
-            [
-              89.275552,
-              37.051079
-            ],
-            [
-              89.03171,
-              37.051079
-            ],
-            [
-              89.03171,
-              35.958637
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1CC10",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T08:00:02.311590Z",
-        "cloud_cover": 17.12818569801415,
-        "name": "B020001100B1CC10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CC10/assets/collections/dg-archive/assets/browse/B020001100B1CC10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1CC10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              85.110399,
-              31.983594
-            ],
-            [
-              85.320849,
-              31.983594
-            ],
-            [
-              85.320849,
-              32.518693
-            ],
-            [
-              85.110399,
-              32.518693
-            ],
-            [
-              85.110399,
-              31.983594
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B1E210",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T08:00:42.862412Z",
-        "cloud_cover": 92.29869275363968,
-        "name": "B020001100B1E210",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1E210/assets/collections/dg-archive/assets/browse/B020001100B1E210.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B1E210",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              85.297045,
-              31.983975
-            ],
-            [
-              85.506403,
-              31.983975
-            ],
-            [
-              85.506403,
-              32.517373
-            ],
-            [
-              85.297045,
-              32.517373
-            ],
-            [
-              85.297045,
-              31.983975
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B020001100B27010",
-        "source": "MGP",
-        "sensor": "WV01",
-        "type": "optical",
-        "datetime": "2026-08-19T08:00:32.861499Z",
-        "cloud_cover": 86.78451364621577,
-        "name": "B020001100B27010",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B27010/assets/collections/dg-archive/assets/browse/B020001100B27010.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv01/items/B020001100B27010",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              126.628624,
-              38.581386
-            ],
-            [
-              126.824585,
-              38.581386
-            ],
-            [
-              126.824585,
-              38.712359
-            ],
-            [
-              126.628624,
-              38.712359
-            ],
-            [
-              126.628624,
-              38.581386
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B030001100B4AE10",
-        "source": "MGP",
-        "sensor": "WV02",
-        "type": "optical",
-        "datetime": "2026-08-19T02:19:04.938709Z",
-        "cloud_cover": 99.29606648552661,
-        "name": "B030001100B4AE10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4AE10/assets/collections/dg-archive/assets/browse/B030001100B4AE10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4AE10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              126.155232,
-              39.373009
-            ],
-            [
-              126.360084,
-              39.373009
-            ],
-            [
-              126.360084,
-              39.509708
-            ],
-            [
-              126.155232,
-              39.509708
-            ],
-            [
-              126.155232,
-              39.373009
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B030001100B4F610",
-        "source": "MGP",
-        "sensor": "WV02",
-        "type": "optical",
-        "datetime": "2026-08-19T02:18:55.889107Z",
-        "cloud_cover": 98.62953288178632,
-        "name": "B030001100B4F610",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4F610/assets/collections/dg-archive/assets/browse/B030001100B4F610.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B4F610",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              80.371477,
-              40.479081
-            ],
-            [
-              80.586417,
-              40.479081
-            ],
-            [
-              80.586417,
-              41.004545
-            ],
-            [
-              80.371477,
-              41.004545
-            ],
-            [
-              80.371477,
-              40.479081
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B030001100B51D10",
-        "source": "MGP",
-        "sensor": "WV02",
-        "type": "optical",
-        "datetime": "2026-08-19T05:39:06.588991Z",
+        "datetime": "2026-08-26T00:02:01.999686Z",
         "cloud_cover": 0.0,
-        "name": "B030001100B51D10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51D10/assets/collections/dg-archive/assets/browse/B030001100B51D10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51D10",
+        "name": "B1300011010CBF10",
+        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B1300011010CBF10/assets/collections/dg-archive/assets/browse/B1300011010CBF10.browse.tif",
+        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B1300011010CBF10",
         "download_url": null,
         "links": [
           {
@@ -338982,2163 +341187,7 @@
             "url": "https://pro.maxar.com"
           }
         ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              83.032707,
-              41.479511
-            ],
-            [
-              83.296872,
-              41.479511
-            ],
-            [
-              83.296872,
-              42.028095
-            ],
-            [
-              83.032707,
-              42.028095
-            ],
-            [
-              83.032707,
-              41.479511
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B030001100B51E10",
-        "source": "MGP",
-        "sensor": "WV02",
-        "type": "optical",
-        "datetime": "2026-08-19T05:38:46.389803Z",
-        "cloud_cover": 0.008509514934554013,
-        "name": "B030001100B51E10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51E10/assets/collections/dg-archive/assets/browse/B030001100B51E10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51E10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              78.121915,
-              35.090087
-            ],
-            [
-              78.310837,
-              35.090087
-            ],
-            [
-              78.310837,
-              35.554659
-            ],
-            [
-              78.121915,
-              35.554659
-            ],
-            [
-              78.121915,
-              35.090087
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B030001100B51F10",
-        "source": "MGP",
-        "sensor": "WV02",
-        "type": "optical",
-        "datetime": "2026-08-19T05:39:33.489772Z",
-        "cloud_cover": 78.94579905048496,
-        "name": "B030001100B51F10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51F10/assets/collections/dg-archive/assets/browse/B030001100B51F10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B51F10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              77.958276,
-              35.088158
-            ],
-            [
-              78.143899,
-              35.088158
-            ],
-            [
-              78.143899,
-              35.551759
-            ],
-            [
-              77.958276,
-              35.551759
-            ],
-            [
-              77.958276,
-              35.088158
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B030001100B52210",
-        "source": "MGP",
-        "sensor": "WV02",
-        "type": "optical",
-        "datetime": "2026-08-19T05:39:44.990570Z",
-        "cloud_cover": 55.732658128676405,
-        "name": "B030001100B52210",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52210/assets/collections/dg-archive/assets/browse/B030001100B52210.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52210",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              77.799431,
-              35.092281
-            ],
-            [
-              77.980651,
-              35.092281
-            ],
-            [
-              77.980651,
-              35.551545
-            ],
-            [
-              77.799431,
-              35.551545
-            ],
-            [
-              77.799431,
-              35.092281
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B030001100B52310",
-        "source": "MGP",
-        "sensor": "WV02",
-        "type": "optical",
-        "datetime": "2026-08-19T05:39:56.789767Z",
-        "cloud_cover": 56.80058721595378,
-        "name": "B030001100B52310",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52310/assets/collections/dg-archive/assets/browse/B030001100B52310.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv02/items/B030001100B52310",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              122.823164,
-              44.71696
-            ],
-            [
-              123.005295,
-              44.71696
-            ],
-            [
-              123.005295,
-              46.032974
-            ],
-            [
-              122.823164,
-              46.032974
-            ],
-            [
-              122.823164,
-              44.71696
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B04000110078FA10",
-        "source": "MGP",
-        "sensor": "WV03",
-        "type": "optical",
-        "datetime": "2026-08-19T02:57:30.471431Z",
-        "cloud_cover": 20.34428587396699,
-        "name": "B04000110078FA10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B04000110078FA10/assets/collections/dg-archive/assets/browse/B04000110078FA10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B04000110078FA10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              122.329557,
-              43.983853
-            ],
-            [
-              122.50353,
-              43.983853
-            ],
-            [
-              122.50353,
-              44.530201
-            ],
-            [
-              122.329557,
-              44.530201
-            ],
-            [
-              122.329557,
-              43.983853
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B040001100790110",
-        "source": "MGP",
-        "sensor": "WV03",
-        "type": "optical",
-        "datetime": "2026-08-19T02:58:06.470122Z",
-        "cloud_cover": 13.435380979345837,
-        "name": "B040001100790110",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790110/assets/collections/dg-archive/assets/browse/B040001100790110.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790110",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              125.791088,
-              51.978342
-            ],
-            [
-              126.005606,
-              51.978342
-            ],
-            [
-              126.005606,
-              52.535652
-            ],
-            [
-              125.791088,
-              52.535652
-            ],
-            [
-              125.791088,
-              51.978342
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B040001100790310",
-        "source": "MGP",
-        "sensor": "WV03",
-        "type": "optical",
-        "datetime": "2026-08-19T02:55:33.570161Z",
-        "cloud_cover": 7.018524280330149,
-        "name": "B040001100790310",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790310/assets/collections/dg-archive/assets/browse/B040001100790310.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790310",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              125.611091,
-              51.963588
-            ],
-            [
-              125.819282,
-              51.963588
-            ],
-            [
-              125.819282,
-              52.514383
-            ],
-            [
-              125.611091,
-              52.514383
-            ],
-            [
-              125.611091,
-              51.963588
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B040001100790410",
-        "source": "MGP",
-        "sensor": "WV03",
-        "type": "optical",
-        "datetime": "2026-08-19T02:55:48.870121Z",
-        "cloud_cover": 12.150948759634566,
-        "name": "B040001100790410",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790410/assets/collections/dg-archive/assets/browse/B040001100790410.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790410",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              125.442163,
-              51.984749
-            ],
-            [
-              125.6432,
-              51.984749
-            ],
-            [
-              125.6432,
-              52.526995
-            ],
-            [
-              125.442163,
-              52.526995
-            ],
-            [
-              125.442163,
-              51.984749
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B040001100790510",
-        "source": "MGP",
-        "sensor": "WV03",
-        "type": "optical",
-        "datetime": "2026-08-19T02:56:04.970077Z",
-        "cloud_cover": 15.52823372352465,
-        "name": "B040001100790510",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790510/assets/collections/dg-archive/assets/browse/B040001100790510.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790510",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              125.268239,
-              51.974368
-            ],
-            [
-              125.478522,
-              51.974368
-            ],
-            [
-              125.478522,
-              52.519977
-            ],
-            [
-              125.268239,
-              52.519977
-            ],
-            [
-              125.268239,
-              51.974368
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B040001100790610",
-        "source": "MGP",
-        "sensor": "WV03",
-        "type": "optical",
-        "datetime": "2026-08-19T02:56:21.570033Z",
-        "cloud_cover": 33.60869061714283,
-        "name": "B040001100790610",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790610/assets/collections/dg-archive/assets/browse/B040001100790610.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790610",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              125.089246,
-              51.974706
-            ],
-            [
-              125.304325,
-              51.974706
-            ],
-            [
-              125.304325,
-              52.536984
-            ],
-            [
-              125.089246,
-              52.536984
-            ],
-            [
-              125.089246,
-              51.974706
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B040001100790710",
-        "source": "MGP",
-        "sensor": "WV03",
-        "type": "optical",
-        "datetime": "2026-08-19T02:56:38.069990Z",
-        "cloud_cover": 62.67208330576391,
-        "name": "B040001100790710",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790710/assets/collections/dg-archive/assets/browse/B040001100790710.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/wv03-vnir/items/B040001100790710",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              126.642254,
-              38.609449
-            ],
-            [
-              126.829119,
-              38.609449
-            ],
-            [
-              126.829119,
-              38.724962
-            ],
-            [
-              126.642254,
-              38.724962
-            ],
-            [
-              126.642254,
-              38.609449
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B050001100588610",
-        "source": "MGP",
-        "sensor": "GE01",
-        "type": "optical",
-        "datetime": "2026-08-19T02:20:12.485291Z",
-        "cloud_cover": 99.5077590338032,
-        "name": "B050001100588610",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588610/assets/collections/dg-archive/assets/browse/B050001100588610.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588610",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              124.602775,
-              39.573669
-            ],
-            [
-              124.838433,
-              39.573669
-            ],
-            [
-              124.838433,
-              39.739442
-            ],
-            [
-              124.602775,
-              39.739442
-            ],
-            [
-              124.602775,
-              39.573669
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B050001100588710",
-        "source": "MGP",
-        "sensor": "GE01",
-        "type": "optical",
-        "datetime": "2026-08-19T02:20:51.885098Z",
-        "cloud_cover": 96.96501214089747,
-        "name": "B050001100588710",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588710/assets/collections/dg-archive/assets/browse/B050001100588710.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B050001100588710",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              78.350584,
-              36.467927
-            ],
-            [
-              78.525193,
-              36.467927
-            ],
-            [
-              78.525193,
-              36.550818
-            ],
-            [
-              78.350584,
-              36.550818
-            ],
-            [
-              78.350584,
-              36.467927
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B05000110058C710",
-        "source": "MGP",
-        "sensor": "GE01",
-        "type": "optical",
-        "datetime": "2026-08-19T05:37:55.885014Z",
-        "cloud_cover": 0.0,
-        "name": "B05000110058C710",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B05000110058C710/assets/collections/dg-archive/assets/browse/B05000110058C710.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/ge01/items/B05000110058C710",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              124.372185,
-              44.476475
-            ],
-            [
-              124.507274,
-              44.476475
-            ],
-            [
-              124.507274,
-              45.017847
-            ],
-            [
-              124.372185,
-              45.017847
-            ],
-            [
-              124.372185,
-              44.476475
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B11000110109A910",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-01",
-        "type": "optical",
-        "datetime": "2026-08-19T02:51:13.882000Z",
-        "cloud_cover": 19.562608456776676,
-        "name": "B11000110109A910",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109A910/assets/collections/dg-archive/assets/browse/B11000110109A910.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109A910",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              78.748153,
-              44.473507
-            ],
-            [
-              78.884442,
-              44.473507
-            ],
-            [
-              78.884442,
-              45.016055
-            ],
-            [
-              78.748153,
-              45.016055
-            ],
-            [
-              78.748153,
-              44.473507
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B11000110109D810",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-01",
-        "type": "optical",
-        "datetime": "2026-08-19T06:00:19.382000Z",
-        "cloud_cover": 0.0,
-        "name": "B11000110109D810",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109D810/assets/collections/dg-archive/assets/browse/B11000110109D810.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109D810",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              78.644552,
-              44.484339
-            ],
-            [
-              78.772817,
-              44.484339
-            ],
-            [
-              78.772817,
-              45.01803
-            ],
-            [
-              78.644552,
-              45.01803
-            ],
-            [
-              78.644552,
-              44.484339
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B11000110109DA10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-01",
-        "type": "optical",
-        "datetime": "2026-08-19T06:00:45.256000Z",
-        "cloud_cover": 0.005144280033422689,
-        "name": "B11000110109DA10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DA10/assets/collections/dg-archive/assets/browse/B11000110109DA10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DA10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              78.530365,
-              44.467732
-            ],
-            [
-              78.669812,
-              44.467732
-            ],
-            [
-              78.669812,
-              45.018334
-            ],
-            [
-              78.530365,
-              45.018334
-            ],
-            [
-              78.530365,
-              44.467732
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B11000110109DB10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-01",
-        "type": "optical",
-        "datetime": "2026-08-19T06:01:13.932000Z",
-        "cloud_cover": 0.0,
-        "name": "B11000110109DB10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DB10/assets/collections/dg-archive/assets/browse/B11000110109DB10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DB10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              76.489946,
-              37.472344
-            ],
-            [
-              76.613217,
-              37.472344
-            ],
-            [
-              76.613217,
-              39.020621
-            ],
-            [
-              76.489946,
-              39.020621
-            ],
-            [
-              76.489946,
-              37.472344
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B11000110109DE10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-01",
-        "type": "optical",
-        "datetime": "2026-08-19T06:01:56.881000Z",
-        "cloud_cover": 23.004242346527846,
-        "name": "B11000110109DE10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DE10/assets/collections/dg-archive/assets/browse/B11000110109DE10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg01/items/B11000110109DE10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              116.752943,
-              44.961787
-            ],
-            [
-              116.895579,
-              44.961787
-            ],
-            [
-              116.895579,
-              46.519952
-            ],
-            [
-              116.752943,
-              46.519952
-            ],
-            [
-              116.752943,
-              44.961787
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B1200011010ADD10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-02",
-        "type": "optical",
-        "datetime": "2026-08-19T03:34:30.257000Z",
-        "cloud_cover": 0.8395132763239764,
-        "name": "B1200011010ADD10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010ADD10/assets/collections/dg-archive/assets/browse/B1200011010ADD10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010ADD10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              118.360595,
-              48.980295
-            ],
-            [
-              118.514634,
-              48.980295
-            ],
-            [
-              118.514634,
-              49.515779
-            ],
-            [
-              118.360595,
-              49.515779
-            ],
-            [
-              118.360595,
-              48.980295
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B1200011010AEC10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-02",
-        "type": "optical",
-        "datetime": "2026-08-19T03:33:54.757000Z",
-        "cloud_cover": 97.67652022429093,
-        "name": "B1200011010AEC10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010AEC10/assets/collections/dg-archive/assets/browse/B1200011010AEC10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010AEC10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              87.895387,
-              34.982899
-            ],
-            [
-              88.005154,
-              34.982899
-            ],
-            [
-              88.005154,
-              35.514086
-            ],
-            [
-              87.895387,
-              35.514086
-            ],
-            [
-              87.895387,
-              34.982899
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B1200011010B0410",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-02",
-        "type": "optical",
-        "datetime": "2026-08-19T05:12:48.257000Z",
-        "cloud_cover": 82.16105035981165,
-        "name": "B1200011010B0410",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010B0410/assets/collections/dg-archive/assets/browse/B1200011010B0410.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg02/items/B1200011010B0410",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              109.274605,
-              38.48281
-            ],
-            [
-              109.399583,
-              38.48281
-            ],
-            [
-              109.399583,
-              40.003437
-            ],
-            [
-              109.274605,
-              40.003437
-            ],
-            [
-              109.274605,
-              38.48281
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101010010",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T01:54:25.749840Z",
-        "cloud_cover": 0.005724939967820482,
-        "name": "B130001101010010",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010010/assets/collections/dg-archive/assets/browse/B130001101010010.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010010",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              112.693404,
-              39.985199
-            ],
-            [
-              112.814726,
-              39.985199
-            ],
-            [
-              112.814726,
-              40.516954
-            ],
-            [
-              112.693404,
-              40.516954
-            ],
-            [
-              112.693404,
-              39.985199
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101010310",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T01:55:26.374814Z",
-        "cloud_cover": 0.0,
-        "name": "B130001101010310",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010310/assets/collections/dg-archive/assets/browse/B130001101010310.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010310",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.493322,
-              41.481108
-            ],
-            [
-              117.626489,
-              41.481108
-            ],
-            [
-              117.626489,
-              42.018475
-            ],
-            [
-              117.493322,
-              42.018475
-            ],
-            [
-              117.493322,
-              41.481108
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101010410",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T01:56:14.874691Z",
-        "cloud_cover": 60.01711426836502,
-        "name": "B130001101010410",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010410/assets/collections/dg-archive/assets/browse/B130001101010410.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010410",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.601222,
-              41.48574
-            ],
-            [
-              117.725202,
-              41.48574
-            ],
-            [
-              117.725202,
-              42.013618
-            ],
-            [
-              117.601222,
-              42.013618
-            ],
-            [
-              117.601222,
-              41.48574
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101010510",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T01:56:37.874702Z",
-        "cloud_cover": 37.18103713453848,
-        "name": "B130001101010510",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010510/assets/collections/dg-archive/assets/browse/B130001101010510.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010510",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.696206,
-              41.483748
-            ],
-            [
-              117.83703,
-              41.483748
-            ],
-            [
-              117.83703,
-              42.017494
-            ],
-            [
-              117.696206,
-              42.017494
-            ],
-            [
-              117.696206,
-              41.483748
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101010610",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T01:57:01.374807Z",
-        "cloud_cover": 14.18097824050258,
-        "name": "B130001101010610",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010610/assets/collections/dg-archive/assets/browse/B130001101010610.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101010610",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              77.185834,
-              33.483899
-            ],
-            [
-              77.31274,
-              33.483899
-            ],
-            [
-              77.31274,
-              34.014044
-            ],
-            [
-              77.185834,
-              34.014044
-            ],
-            [
-              77.185834,
-              33.483899
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101011B10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T03:27:01.374810Z",
-        "cloud_cover": 94.79152327029215,
-        "name": "B130001101011B10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011B10/assets/collections/dg-archive/assets/browse/B130001101011B10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011B10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              77.593752,
-              33.983515
-            ],
-            [
-              77.705517,
-              33.983515
-            ],
-            [
-              77.705517,
-              34.517054
-            ],
-            [
-              77.593752,
-              34.517054
-            ],
-            [
-              77.593752,
-              33.983515
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101011C10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T03:27:34.500421Z",
-        "cloud_cover": 81.13602179803824,
-        "name": "B130001101011C10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011C10/assets/collections/dg-archive/assets/browse/B130001101011C10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011C10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              80.384829,
-              36.483663
-            ],
-            [
-              80.511036,
-              36.483663
-            ],
-            [
-              80.511036,
-              38.019715
-            ],
-            [
-              80.384829,
-              38.019715
-            ],
-            [
-              80.384829,
-              36.483663
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101011F10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T03:28:22.624845Z",
-        "cloud_cover": 6.719239405380232,
-        "name": "B130001101011F10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011F10/assets/collections/dg-archive/assets/browse/B130001101011F10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101011F10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              82.750531,
-              44.478594
-            ],
-            [
-              82.889412,
-              44.478594
-            ],
-            [
-              82.889412,
-              46.011034
-            ],
-            [
-              82.750531,
-              46.011034
-            ],
-            [
-              82.750531,
-              44.478594
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101016110",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T06:48:39.624900Z",
-        "cloud_cover": 6.206596762187577,
-        "name": "B130001101016110",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016110/assets/collections/dg-archive/assets/browse/B130001101016110.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016110",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              88.985017,
-              42.974221
-            ],
-            [
-              89.118763,
-              42.974221
-            ],
-            [
-              89.118763,
-              44.513464
-            ],
-            [
-              88.985017,
-              44.513464
-            ],
-            [
-              88.985017,
-              42.974221
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101016E10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T06:50:01.749819Z",
-        "cloud_cover": 1.4780535072573788,
-        "name": "B130001101016E10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016E10/assets/collections/dg-archive/assets/browse/B130001101016E10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101016E10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              78.371979,
-              42.422107
-            ],
-            [
-              78.508712,
-              42.422107
-            ],
-            [
-              78.508712,
-              42.589589
-            ],
-            [
-              78.371979,
-              42.589589
-            ],
-            [
-              78.371979,
-              42.422107
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101018A10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T08:27:40.124789Z",
-        "cloud_cover": 0.7469017811529565,
-        "name": "B130001101018A10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101018A10/assets/collections/dg-archive/assets/browse/B130001101018A10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101018A10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              85.50947844661835,
-              37.98388442753276
-            ],
-            [
-              85.63918862159562,
-              37.98388442753276
-            ],
-            [
-              85.63918862159562,
-              38.51724329387072
-            ],
-            [
-              85.50947844661835,
-              38.51724329387072
-            ],
-            [
-              85.50947844661835,
-              37.98388442753276
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101018D10",
-        "source": "MGP",
-        "sensor": "MAXAR",
-        "type": "optical",
-        "datetime": "2026-08-19T08:29:12.882Z",
-        "cloud_cover": 0,
-        "name": "B130001101018D10",
-        "thumbnail_url": "https://api.maxar.com/analytics/v1/raster/browse/geotiff?function=browse&p=collect_identifier=%22B130001101018D10%22",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/cloud-optimized-archive/items/B130001101018D10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              85.61431176201467,
-              37.985905340967165
-            ],
-            [
-              85.73028804078481,
-              37.985905340967165
-            ],
-            [
-              85.73028804078481,
-              38.51207765543357
-            ],
-            [
-              85.61431176201467,
-              38.51207765543357
-            ],
-            [
-              85.61431176201467,
-              37.985905340967165
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101018F10",
-        "source": "MGP",
-        "sensor": "MAXAR",
-        "type": "optical",
-        "datetime": "2026-08-19T08:29:36.632Z",
-        "cloud_cover": 0,
-        "name": "B130001101018F10",
-        "thumbnail_url": "https://api.maxar.com/analytics/v1/raster/browse/geotiff?function=browse&p=collect_identifier=%22B130001101018F10%22",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/cloud-optimized-archive/items/B130001101018F10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              85.707289,
-              37.979089
-            ],
-            [
-              85.833448,
-              37.979089
-            ],
-            [
-              85.833448,
-              38.51918
-            ],
-            [
-              85.707289,
-              38.51918
-            ],
-            [
-              85.707289,
-              37.979089
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101019210",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T08:30:01.124704Z",
-        "cloud_cover": 0.0,
-        "name": "B130001101019210",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019210/assets/collections/dg-archive/assets/browse/B130001101019210.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019210",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              80.097817,
-              39.978298
-            ],
-            [
-              80.227028,
-              39.978298
-            ],
-            [
-              80.227028,
-              41.51959
-            ],
-            [
-              80.097817,
-              41.51959
-            ],
-            [
-              80.097817,
-              39.978298
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B130001101019310",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-03",
-        "type": "optical",
-        "datetime": "2026-08-19T08:28:06.749788Z",
-        "cloud_cover": 55.654619338310894,
-        "name": "B130001101019310",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019310/assets/collections/dg-archive/assets/browse/B130001101019310.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg03/items/B130001101019310",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              81.383171,
-              39.486087
-            ],
-            [
-              81.506838,
-              39.486087
-            ],
-            [
-              81.506838,
-              40.018932
-            ],
-            [
-              81.383171,
-              40.018932
-            ],
-            [
-              81.383171,
-              39.486087
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B140001100F5B210",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-04",
-        "type": "optical",
-        "datetime": "2026-08-19T09:48:05.374784Z",
-        "cloud_cover": 56.19562678891508,
-        "name": "B140001100F5B210",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5B210/assets/collections/dg-archive/assets/browse/B140001100F5B210.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5B210",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              86.380617,
-              40.479816
-            ],
-            [
-              86.509726,
-              40.479816
-            ],
-            [
-              86.509726,
-              42.013183
-            ],
-            [
-              86.380617,
-              42.013183
-            ],
-            [
-              86.380617,
-              40.479816
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B140001100F5C110",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-04",
-        "type": "optical",
-        "datetime": "2026-08-19T09:48:57.382000Z",
-        "cloud_cover": 4.657042971057202,
-        "name": "B140001100F5C110",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5C110/assets/collections/dg-archive/assets/browse/B140001100F5C110.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg04/items/B140001100F5C110",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              111.387064,
-              38.982834
-            ],
-            [
-              111.508967,
-              38.982834
-            ],
-            [
-              111.508967,
-              39.510142
-            ],
-            [
-              111.387064,
-              39.510142
-            ],
-            [
-              111.387064,
-              38.982834
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B150001101CA9310",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-05",
-        "type": "optical",
-        "datetime": "2026-08-19T00:31:32.499579Z",
-        "cloud_cover": 0.0,
-        "name": "B150001101CA9310",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9310/assets/collections/dg-archive/assets/browse/B150001101CA9310.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9310",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              114.601421,
-              37.773939
-            ],
-            [
-              114.732082,
-              37.773939
-            ],
-            [
-              114.732082,
-              38.019978
-            ],
-            [
-              114.601421,
-              38.019978
-            ],
-            [
-              114.601421,
-              37.773939
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B150001101CA9410",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-05",
-        "type": "optical",
-        "datetime": "2026-08-19T00:32:51.874715Z",
-        "cloud_cover": 73.74470632547394,
-        "name": "B150001101CA9410",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9410/assets/collections/dg-archive/assets/browse/B150001101CA9410.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9410",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              111.485202,
-              38.981795
-            ],
-            [
-              111.611954,
-              38.981795
-            ],
-            [
-              111.611954,
-              39.510895
-            ],
-            [
-              111.485202,
-              39.510895
-            ],
-            [
-              111.485202,
-              38.981795
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B150001101CA9510",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-05",
-        "type": "optical",
-        "datetime": "2026-08-19T00:31:55.749705Z",
-        "cloud_cover": 0.0,
-        "name": "B150001101CA9510",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9510/assets/collections/dg-archive/assets/browse/B150001101CA9510.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CA9510",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              75.989021,
-              34.478771
-            ],
-            [
-              76.118219,
-              34.478771
-            ],
-            [
-              76.118219,
-              35.020888
-            ],
-            [
-              75.989021,
-              35.020888
-            ],
-            [
-              75.989021,
-              34.478771
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B150001101CACC10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-05",
-        "type": "optical",
-        "datetime": "2026-08-19T03:44:11.624636Z",
-        "cloud_cover": 73.5257048656549,
-        "name": "B150001101CACC10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACC10/assets/collections/dg-archive/assets/browse/B150001101CACC10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACC10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              76.091478,
-              34.484261
-            ],
-            [
-              76.202578,
-              34.484261
-            ],
-            [
-              76.202578,
-              35.017657
-            ],
-            [
-              76.091478,
-              35.017657
-            ],
-            [
-              76.091478,
-              34.484261
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "B150001101CACD10",
-        "source": "MGP",
-        "sensor": "WORLDVIEW-LEGION-05",
-        "type": "optical",
-        "datetime": "2026-08-19T03:44:35.499709Z",
-        "cloud_cover": 53.95325397965103,
-        "name": "B150001101CACD10",
-        "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACD10/assets/collections/dg-archive/assets/browse/B150001101CACD10.browse.tif",
-        "metadata_url": "https://api.maxar.com/discovery/v1/collections/lg05/items/B150001101CACD10",
-        "download_url": null,
-        "links": [
-          {
-            "label": "Vantor Hub（旧MGP Pro）で開く",
-            "url": "https://pro.maxar.com"
-          }
-        ],
-        "first_seen": "2026-08-20T02:04:31.612718+00:00"
+        "first_seen": "2026-08-26T00:42:02.229682+00:00"
       }
     }
   ]
