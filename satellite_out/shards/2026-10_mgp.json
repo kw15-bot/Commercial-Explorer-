@@ -279725,6 +279725,52 @@
     "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/mosaics/items/Vivid_Standard_MN04_26Q4/assets/Vivid_Standard_MN04_26Q4/browse.tif",
     "type": "optical"
   },
+  "MGP:Vivid_Standard_MN05_26Q4": {
+    "cloud_cover": null,
+    "datetime": "2026-10-31T21:46:12Z",
+    "download_url": null,
+    "first_seen": "2026-11-03T21:03:31.088291+00:00",
+    "footprint": {
+      "coordinates": [
+        [
+          [
+            95.537109375,
+            41.748046875
+          ],
+          [
+            104.150390625,
+            41.748046875
+          ],
+          [
+            104.150390625,
+            46.494140625
+          ],
+          [
+            95.537109375,
+            46.494140625
+          ],
+          [
+            95.537109375,
+            41.748046875
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "Vivid_Standard_MN05_26Q4",
+    "links": [
+      {
+        "label": "Vantor Hub（旧MGP Pro）で開く",
+        "url": "https://pro.maxar.com"
+      }
+    ],
+    "metadata_url": "https://api.maxar.com/discovery/v1/collections/mosaics/items/Vivid_Standard_MN05_26Q4",
+    "name": "Vivid_Standard_MN05_26Q4",
+    "sensor": "-",
+    "source": "MGP",
+    "thumbnail_url": "https://api.maxar.com/discovery/v1/collections/mosaics/items/Vivid_Standard_MN05_26Q4/assets/Vivid_Standard_MN05_26Q4/browse.tif",
+    "type": "optical"
+  },
   "MGP:Vivid_Standard_VN02_26Q4": {
     "cloud_cover": null,
     "datetime": "2026-10-08T19:35:17Z",
