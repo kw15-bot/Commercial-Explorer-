@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:08:01.386914+00:00",
+  "generated_at": "2026-11-11T21:07:31.726065+00:00",
   "shards": [
     {
       "key": "2025-08_copernicus",
@@ -83,12 +83,12 @@
     },
     {
       "key": "2026-11_copernicus",
-      "count": 18436
+      "count": 20092
     },
     {
       "key": "2026-11_mgp",
-      "count": 2003
+      "count": 2227
     }
   ],
-  "total_count": 307051
+  "total_count": 308931
 }
